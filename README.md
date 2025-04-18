@@ -1,2 +1,5 @@
-# nus-hcrl.github.io
-main page for lab
+## TODO
+
+1. main page (Siyuan) -- [Done]
+
+2. people page (Zhenhao) -- [Done]

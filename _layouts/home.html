@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<div class="container">
+    <!-- Image Gallery Section -->
+    <div class="image-gallery">
+        {% if page.gallery_images %}
+            <div class="gallery-row">
+                <div class="gallery-item">
+                    <img src="{{ site.baseurl }}{{ page.gallery_images[0] }}" alt="{{ page.gallery_alts[0] }}" class="gallery-image">
+                </div>
+                <div class="gallery-item">
+                    <img src="{{ site.baseurl }}{{ page.gallery_images[1] }}" alt="{{ page.gallery_alts[1] }}" class="gallery-image">
+                </div>
+            </div>
+            <div class="gallery-row">
+                <div class="gallery-item">
+                    <img src="{{ site.baseurl }}{{ page.gallery_images[2] }}" alt="{{ page.gallery_alts[2] }}" class="gallery-image">
+                </div>
+                <div class="gallery-item">
+                    <img src="{{ site.baseurl }}{{ page.gallery_images[3] }}" alt="{{ page.gallery_alts[3] }}" class="gallery-image">
+                </div>
+            </div>
+        {% endif %}
+    </div>
+    
+    <!-- Header Section -->
+    <header class="hero">
+        {% if page.intro_text %}
+            {{ page.intro_text }}
+        {% endif %}
+    </header>
+
+    <!-- News Section -->
+    <section class="content">
+        <h2>{{ page.news_title | default: "News" }}</h2>
+        {{ content }}
+    </section>
+</div>
+
+<style>
+    .image-gallery {
+        margin-top: 50px;
+        margin-bottom: 0px;
+    }
+    
+    .gallery-row {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        margin-bottom: 15px;
+    }
+    
+    .gallery-item {
+        flex: 0 0 40%;
+    }
+    
+    .gallery-image {
+        width: 100%;
+        height: auto;
+        border-radius: 0px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    
+    @media (max-width: 768px) {
+        .gallery-row {
+            flex-direction: column;
+        }
+        
+        .gallery-item {
+            flex: 0 0 100%;
+            margin-bottom: 15px;
+        }
+    }
+</style>

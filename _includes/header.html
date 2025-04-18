@@ -1,0 +1,65 @@
+<header class="site-header">
+  <div class="site-logo-container">
+    <a href="{{ site.github.url }}/" class="logo-link">
+      <img src="{{ site.github.url }}/assets/img/nus-logo.jpg" alt="Logo 1" class="site-logo">
+      <img src="{{ site.github.url }}/assets/img/hcrl-logo-wo-nus.png" alt="Logo 2" class="site-logo">
+    </a>
+  </div>
+  <h3 class="site-title">
+    <a href="{{ site.github.url }}/">{{ site.title }}</a>
+  </h3>
+  <nav class="menu-list">
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
+    {% endfor %}
+    {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+    {% endfor %}
+  </nav>
+  <div class="dropdown">
+    <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+    <div class="dropdown-content">
+      {% for item in site.data.settings.menu %}
+        <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
+      {% endfor %}
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+      {% endfor %}
+    </div>
+  </div>
+</header>
+
+<style>
+  .site-logo-container {
+    display: flex;
+    align-items: center !important;
+    justify-content: flex-start;
+    position: relative;
+    height: 60px; /* Set a fixed height for container */
+  }
+  
+  .logo-link {
+    display: flex;
+    flex-direction: row;
+    align-items: center !important;
+    height: 100%;
+  }
+  
+  .site-logo {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%); /* Vertically center using transform */
+    margin-right: 10px;
+    display: block !important;
+    width: auto !important;
+  }
+  
+  .site-logo:first-child {
+    height: 60px;
+  }
+  
+  .site-logo:last-child {
+    height: 45px;
+    margin-right: 0;
+  }
+</style>

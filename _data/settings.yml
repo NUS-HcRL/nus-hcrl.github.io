@@ -1,0 +1,23 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'Home',  url: 'index'}
+- {name: 'Lab',  url: 'lab'}
+- {name: 'Research', url: 'research'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'github', link:    'https://github.com/NUS-HcRL'}
+- {icon: 'twitter', link:   'https://x.com/fanshi_robot'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
