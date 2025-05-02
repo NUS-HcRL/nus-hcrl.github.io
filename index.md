@@ -24,7 +24,6 @@ news_title: News
 <p>2025.04: Fan will be joining ICLR 2025 <a href="https://sites.google.com/stanford.edu/haic2025/home?authuser=0">Workshop on Human-AI Coevolution</a>. Looking forward to catching up with you there!</p>
 <p>2025.04: Our paper "Fast But Accurate: A Real-Time Hyperelastic Simulator with Robust Frictional Contact" has been accepted to SIGGRAPH 2025 (Journal Track). Read it <a href="https://arxiv.org/abs/2503.15078">here</a>.</p>
 <p>2025.04: Two Papers got accepted by SIGGRAPH 2025.</p>
-<p>2025.03: Our workshop on "Towards Reliable and Trustworthy Embodied AI in Everyday Scenarios" will be held in ICRA 2025.</p>
 <p>2025.03: Fan gave talks at Singapore Intelligence, Robotics and Control Symposium.</p>
 <p>2025.01: Fan will serve as the Associate Editor in RA-L and IROS 2025.</p>
 <p>2025.01: 2 paper accepted in ICRA 2025, 1 paper accepted in RoboSoft 2025, 1 paper accepted in SSRR. Congratulations to all the collaborators!</p>
