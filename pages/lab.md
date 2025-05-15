@@ -18,33 +18,39 @@ permalink: /lab
   </a>
 </div>
 
-## Research Engineer
+## Members
 <div class="member-grid">
+  <div class="member-card">
+      <img src="/assets/img/Ziqiu.jpg" class="member-photo" alt="Ziqiu Zeng">
+      <div class="member-name">Ziqiu Zeng</div>
+      <div class="member-position">Research Fellow</div>
+  </div>
   <a href="https://www.siyuanluo.com/" class="member-link" target="_blank">
     <div class="member-card">
       <img src="/assets/img/Siyuan.jpg" class="member-photo" alt="Siyuan Luo">
       <div class="member-name">Siyuan Luo</div>
-      <div class="member-position">ECE PhD</div>
+      <div class="member-position">Research Engineer</div>
     </div>
   </a>
-</div>
-
-## PhD Students
-<div class="member-grid">
   <div class="member-card">
       <img src="/assets/img/Chunzheng.jpg" class="member-photo" alt="Chunzheng Wang">
       <div class="member-name">Chunzheng Wang</div>
-      <div class="member-position">ECE PhD</div>
+      <div class="member-position">PhD Student</div>
   </div>
   <div class="member-card">
       <img src="/assets/img/Yanrui.jpg" class="member-photo" alt="Yan Rui Tan">
       <div class="member-name">Yan Rui Tan</div>
-      <div class="member-position">ECE PhD</div>
+      <div class="member-position">PhD Student</div>
   </div>
   <div class="member-card">
         <img src="/assets/img/Zhenhao.jpg" class="member-photo" alt="Zhenhao Huang">
         <div class="member-name">Zhenhao Huang</div>
-        <div class="member-position">ECE PhD</div>
+        <div class="member-position">PhD Student</div>
+  </div>
+  <div class="member-card">
+        <img src="/assets/img/Zixuan.jpg" class="member-photo" alt="Zixuan Zhuang">
+        <div class="member-name">Zixuan Zhuang</div>
+        <div class="member-position">Visiting Student</div>
   </div>
   <!-- <div class="member-card">
       <img src="/assets/img/Zihao.jpg" class="member-photo" alt="Zihao Xu">
