@@ -99,7 +99,7 @@ permalink: /research
     </div>
     <div class="publication-card">
         <div class="publication-image-container">
-            <img src="/assets/research_img/rss24-concept.png" alt="Publication Image" class="publication-image">
+            <img src="/assets/research_img/rss24-concept.gif" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
             <div class="publication-title">Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers</div>
