@@ -6,6 +6,28 @@ permalink: /research
 <div class="publications-list">
     <div class="publication-card">
         <div class="publication-image-container">
+            <img src="/assets/research_img/icra25-elsr-concept.gif" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">SOFA++: A Real-Time GPU-based Surgical Robotics Simulator with Robust Frictional Contact</div>
+            <div class="publication-authors">Siyuan Luo, Ziqiu Zeng, Fan Shi</div>
+            <div class="publication-venue">ICRA 2025 ELSR Workshop</div>
+        </div>
+</div>
+<div class="publications-list">
+    <div class="publication-card">
+        <div class="publication-image-container">
+            <img src="/assets/research_img/tog25-ziqi-concept.png" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">Learning to Assemble with Alternative Plans</div>
+            <div class="publication-authors">Ziqi Wang, Wenjun Liu, Jingwen Wang, Gabriel Vallat, Fan Shi, Stefana Parascho, Maryam Kamgarpour</div>
+            <div class="publication-venue">ACM Transactions on Graphics (Proc. ACM SIGGRAPH 2025)</div>
+        </div>
+    </div>
+<div class="publications-list">
+    <div class="publication-card">
+        <div class="publication-image-container">
             <img src="/assets/research_img/fba.jpg" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
