@@ -48,6 +48,11 @@ permalink: /lab
         <div class="member-position">PhD Student</div>
   </div>
   <div class="member-card">
+      <img src="/assets/img/Gang.jpg" class="member-photo" alt="Gang Yang">
+      <div class="member-name">Gang Yang</div>
+      <div class="member-position">PhD Student (Co-supervise with Prof. Ee-Chien Chang)</div>
+  </div>
+  <div class="member-card">
         <img src="/assets/img/Zixuan.jpg" class="member-photo" alt="Zixuan Zhuang">
         <div class="member-name">Zixuan Zhuang</div>
         <div class="member-position">Visiting Student</div>
@@ -55,11 +60,6 @@ permalink: /lab
   <!-- <div class="member-card">
       <img src="/assets/img/Zihao.jpg" class="member-photo" alt="Zihao Xu">
       <div class="member-name">Zihao Xu</div>
-      <div class="member-position">SoC PhD (Co-supervised)</div>
-  </div>
-  <div class="member-card">
-      <img src="/assets/img/Gang.jpg" class="member-photo" alt="Gang Yang">
-      <div class="member-name">Gang Yang</div>
       <div class="member-position">SoC PhD (Co-supervised)</div>
   </div> -->
 </div>
