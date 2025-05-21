@@ -12,6 +12,9 @@ permalink: /research
             <div class="publication-title">SOFA++: A Real-Time GPU-based Surgical Robotics Simulator with Robust Frictional Contact</div>
             <div class="publication-authors">Siyuan Luo, Ziqiu Zeng, Fan Shi</div>
             <div class="publication-venue">ICRA 2025 ELSR Workshop</div>
+            <div class="publication-links">
+                <a href="https://drive.google.com/drive/u/2/folders/1T0fxxH8u_FAwb1keD3NAURNinFKD8_0i" class="publication-link">Paper</a>=
+            </div>
         </div>
 </div>
 <div class="publications-list">
