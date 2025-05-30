@@ -22,7 +22,7 @@ news_title: News
 <p>2025.05: Fan gave talks at MIT and WPI on "Reinforcement Learning in Robotics: Wins, Fails, and the Next". Thanks for the invitation!</p>
 <p>2025.05: We will organize ICRA 2025 <a href="https://sites.google.com/view/reliable-embodied-ai/home">Towards Reliable & Trustworthy Embodied AI in Everyday Scenarios Workshop</a>. Welcome to join us!</p>
 <p>2025.05: "Learning to Assemble with Alternative Plans" has been accepted to SIGGRAPH 2025 (Journal Track). Kudos to <a href="https://isd.hkust.edu.hk/node/185">Prof. Ziqi Wang</a> and the team!</p>
-<p>2025.04: Ziqiu gave a talk at ETH CRL Seminar on "Fast But Accurate: The Next-Generation Physics Engine for Soft Body Simulations?". Thanks for the invitation!</p>
+<p>2025.05: Ziqiu gave a talk at ETH CRL Seminar on "Fast But Accurate: The Next-Generation Physics Engine for Soft Body Simulations?". Thanks for the invitation!</p>
 <p>2025.04: Fan will be joining ICLR 2025 <a href="https://sites.google.com/stanford.edu/haic2025/home?authuser=0">Workshop on Human-AI Coevolution</a>. Looking forward to catching up with you there!</p>
 <p>2025.04: Our paper "Fast But Accurate: A Real-Time Hyperelastic Simulator with Robust Frictional Contact" has been accepted to SIGGRAPH 2025 (Journal Track). Read it <a href="https://arxiv.org/abs/2503.15078">here</a>.</p>
 <p>2025.04: Two Papers got accepted by SIGGRAPH 2025.</p>
