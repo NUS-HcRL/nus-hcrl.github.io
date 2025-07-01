@@ -19,6 +19,8 @@ intro_text: >
 news_title: News
 ---
 
+<p>2025.07: Our project is selected by NVIDIA Academic Grant Program Award!</p>
+<p>2025.07: We will organize an IROS 2025 workshop on <a href="https://sites.google.com/view/wheeledleggedrobotics?usp=sharing">The Future of Hybrid Mobility</a> with great speakers on legged robots. Welcome to join us!</p>
 <p>2025.05: Fan gave talks at MIT and WPI on "Reinforcement Learning in Robotics: Wins, Fails, and the Next". Thanks for the invitation!</p>
 <p>2025.05: We will organize ICRA 2025 <a href="https://sites.google.com/view/reliable-embodied-ai/home">Towards Reliable & Trustworthy Embodied AI in Everyday Scenarios Workshop</a>. Welcome to join us!</p>
 <p>2025.05: "Learning to Assemble with Alternative Plans" has been accepted to SIGGRAPH 2025 (Journal Track). Kudos to <a href="https://isd.hkust.edu.hk/node/185">Prof. Ziqi Wang</a> and the team!</p>
