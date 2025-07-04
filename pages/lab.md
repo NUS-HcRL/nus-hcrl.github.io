@@ -20,11 +20,13 @@ permalink: /lab
 
 ## Members
 <div class="member-grid">
-  <div class="member-card">
+  <a href="https://ziqiu-zeng.github.io/homepage/" class="member-link" target="_blank">
+    <div class="member-card">
       <img src="/assets/img/Ziqiu.jpg" class="member-photo" alt="Ziqiu Zeng">
       <div class="member-name">Ziqiu Zeng</div>
       <div class="member-position">Research Fellow</div>
-  </div>
+    </div>
+  </a>
   <a href="https://www.siyuanluo.com/" class="member-link" target="_blank">
     <div class="member-card">
       <img src="/assets/img/Siyuan.jpg" class="member-photo" alt="Siyuan Luo">
