@@ -54,16 +54,18 @@ permalink: /lab
       <div class="member-name">Gang Yang</div>
       <div class="member-position">PhD Student (Co-supervise with Prof. Ee-Chien Chang)</div>
   </div>
+  <a href="https://xkq1qkx.github.io/" class="member-link" target="_blank">
+    <div class="member-card">
+      <img src="/assets/img/Kunqi.jpg" class="member-photo" alt="Kunqi Xu">
+      <div class="member-name">Kunqi Xu</div>
+      <div class="member-position">Visiting Student</div>
+    </div>
+  </a>
   <div class="member-card">
         <img src="/assets/img/Zixuan.jpg" class="member-photo" alt="Zixuan Zhuang">
         <div class="member-name">Zixuan Zhuang</div>
         <div class="member-position">Visiting Student</div>
   </div>
-  <!-- <div class="member-card">
-      <img src="/assets/img/Zihao.jpg" class="member-photo" alt="Zihao Xu">
-      <div class="member-name">Zihao Xu</div>
-      <div class="member-position">SoC PhD (Co-supervised)</div>
-  </div> -->
 </div>
 
 ## Previous Students
