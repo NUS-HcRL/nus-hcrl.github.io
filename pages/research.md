@@ -6,6 +6,28 @@ permalink: /research
 <div class="publications-list">
     <div class="publication-card">
         <div class="publication-image-container">
+            <img src="/assets/research_img/humanoids25.jpg" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically Constrained Humanoids</div>
+            <div class="publication-authors">Arturo Moises Flores Alvarez, Fatemeh Zargarbashi, Havel Liu, Shiqi Wang, Liam Edwards, Jessica Anz, Alex Xu, Fan Shi, Stelian Coros, Dennis Hong</div>
+            <div class="publication-venue">Humanoids 2025</div>
+        </div>
+</div>
+<div class="publications-list">
+    <div class="publication-card">
+        <div class="publication-image-container">
+            <img src="/assets/research_img/iros25.png" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">GO-Flock: Goal-Oriented Flocking in 3D Unknown Environments with Depth Maps</div>
+            <div class="publication-authors">Yan Rui Tan, Wenqi Liu, Wai Lun Leong, John Guan Zhong Tan, Wayne Wen Huei Yong, Shaohui Foong, Fan Shi, Rodney Swee Huat Teo</div>
+            <div class="publication-venue">IROS 2025</div>
+        </div>
+</div>
+<div class="publications-list">
+    <div class="publication-card">
+        <div class="publication-image-container">
             <img src="/assets/research_img/icra25-elsr-concept.gif" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
