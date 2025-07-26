@@ -19,8 +19,8 @@ intro_text: >
 news_title: News
 ---
 
-<p>2025.07: Ziqiu presented his work in NUS AI Research Day and TC Poster Session on RAS Model-Based Optimization for Robotics.</p>
-<p>2025.07: Our project is selected by NVIDIA Academic Grant Program Award, thanks for the generous support from NVIDIA!</p>
+<p>2025.07: Ziqiu presented his fast but accurate simulation work in NUS AI Research Day and Poster Session of RAS TC Model-Based Optimization for Robotics.</p>
+<p>2025.07: Our project is selected by <a href="https://www.nvidia.com/en-sg/industries/higher-education-research/academic-grant-program/">NVIDIA Academic Grant Program Award</a>, thanks a lot for the generous support from NVIDIA!</p>
 <p>2025.07: One paper got accepted in IROS 2025, one paper in Humanoids 2025. See you in Hangzhou and Seoul!</p>
 <p>2025.06: We will organize an IROS 2025 workshop on <a href="https://sites.google.com/view/wheeledleggedrobotics?usp=sharing">The Future of Hybrid Mobility</a> with great speakers on legged robots. Welcome to join us!</p>
 <p>2025.05: Fan gave talks at MIT and WPI on "Reinforcement Learning in Robotics: Wins, Fails, and the Next". Thanks for the invitation!</p>
