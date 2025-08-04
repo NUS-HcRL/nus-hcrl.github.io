@@ -34,6 +34,18 @@ permalink: /lab
       <div class="member-position">Research Engineer</div>
     </div>
   </a>
+  <a href="https://pengzhi1998.github.io/" class="member-link" target="_blank">
+    <div class="member-card">
+      <img src="/assets/img/Pengzhi.jpg" class="member-photo" alt="Pengzhi Yang">
+      <div class="member-name">Pengzhi Yang</div>
+      <div class="member-position">PhD Student</div>
+    </div>
+  </a>
+  <div class="member-card">
+      <img src="/assets/img/Bingyang.jpg" class="member-photo" alt="Bingyang Zhou">
+      <div class="member-name">Bingyang Zhou</div>
+      <div class="member-position">PhD Student</div>
+  </div>
   <div class="member-card">
       <img src="/assets/img/Chunzheng.jpg" class="member-photo" alt="Chunzheng Wang">
       <div class="member-name">Chunzheng Wang</div>
