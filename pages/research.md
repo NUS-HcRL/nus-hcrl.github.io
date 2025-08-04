@@ -61,7 +61,7 @@ permalink: /research
             <div class="publication-venue">ACM Transactions on Graphics (Proc. ACM SIGGRAPH 2025)</div>
             <div class="publication-links">
                 <a href="https://nus-hrl.github.io/fba" class="publication-link">Project</a> 
-                <a href="https://arxiv.org/abs/2503.15078" class="publication-link">Paper</a>
+                <a href="https://dl.acm.org/doi/10.1145/3730834" class="publication-link">Paper</a>
                 <a href="https://www.youtube.com/watch?v=sWVkhcwmMec&ab_channel=Siyu" class="publication-link">Video</a>
             </div>
         </div>
