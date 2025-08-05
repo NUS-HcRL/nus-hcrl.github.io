@@ -34,6 +34,21 @@ permalink: /lab
       <div class="member-position">Research Engineer</div>
     </div>
   </a>
+  <div class="member-card">
+        <img src="/assets/img/Zhenhao.jpg" class="member-photo" alt="Zhenhao Huang">
+        <div class="member-name">Zhenhao Huang</div>
+        <div class="member-position">PhD Student</div>
+  </div>
+  <div class="member-card">
+      <img src="/assets/img/Chunzheng.jpg" class="member-photo" alt="Chunzheng Wang">
+      <div class="member-name">Chunzheng Wang</div>
+      <div class="member-position">PhD Student</div>
+  </div>
+  <div class="member-card">
+      <img src="/assets/img/Yanrui.jpg" class="member-photo" alt="Yan Rui Tan">
+      <div class="member-name">Yan Rui Tan</div>
+      <div class="member-position">PhD Student</div>
+  </div>
   <a href="https://pengzhi1998.github.io/" class="member-link" target="_blank">
     <div class="member-card">
       <img src="/assets/img/Pengzhi.jpg" class="member-photo" alt="Pengzhi Yang">
@@ -47,24 +62,14 @@ permalink: /lab
       <div class="member-position">PhD Student</div>
   </div>
   <div class="member-card">
-      <img src="/assets/img/Chunzheng.jpg" class="member-photo" alt="Chunzheng Wang">
-      <div class="member-name">Chunzheng Wang</div>
-      <div class="member-position">PhD Student</div>
-  </div>
-  <div class="member-card">
-      <img src="/assets/img/Yanrui.jpg" class="member-photo" alt="Yan Rui Tan">
-      <div class="member-name">Yan Rui Tan</div>
-      <div class="member-position">PhD Student</div>
-  </div>
-  <div class="member-card">
-        <img src="/assets/img/Zhenhao.jpg" class="member-photo" alt="Zhenhao Huang">
-        <div class="member-name">Zhenhao Huang</div>
-        <div class="member-position">PhD Student</div>
-  </div>
-  <div class="member-card">
       <img src="/assets/img/Gang.jpg" class="member-photo" alt="Gang Yang">
       <div class="member-name">Gang Yang</div>
       <div class="member-position">PhD Student (Co-supervise with Prof. Ee-Chien Chang)</div>
+  </div>
+  <div class="member-card">
+        <img src="/assets/img/Zixuan.jpg" class="member-photo" alt="Zixuan Zhuang">
+        <div class="member-name">Zixuan Zhuang</div>
+        <div class="member-position">Visiting Student</div>
   </div>
   <a href="https://xkq1qkx.github.io/" class="member-link" target="_blank">
     <div class="member-card">
@@ -73,11 +78,6 @@ permalink: /lab
       <div class="member-position">Visiting Student</div>
     </div>
   </a>
-  <div class="member-card">
-        <img src="/assets/img/Zixuan.jpg" class="member-photo" alt="Zixuan Zhuang">
-        <div class="member-name">Zixuan Zhuang</div>
-        <div class="member-position">Visiting Student</div>
-  </div>
 </div>
 
 ## Previous Students
