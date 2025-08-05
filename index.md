@@ -19,7 +19,7 @@ intro_text: >
 news_title: News
 ---
 
-<p>2025.08: Great honor to be invited to talk in CoRL 2025 <a href="https://sites.google.com/view/corl-2025-safe-rol-workshop/">Safe and Robust Robot Learning for Operation in the Real World</a>, look forward to seeing you in Seoul!</p>
+<p>2025.08: Great honor to be invited to talk in CoRL 2025 Workshop <a href="https://sites.google.com/view/corl-2025-safe-rol-workshop/">Safe and Robust Robot Learning for Operation in the Real World</a>, look forward to seeing you in Seoul!</p>
 <p>2025.07: Ziqiu presented his fast but accurate simulation work in NUS AI Research Day and Poster Session of RAS TC Model-Based Optimization.</p>
 <p>2025.07: Our project is selected by <a href="https://www.nvidia.com/en-sg/industries/higher-education-research/academic-grant-program/">NVIDIA Academic Grant Program Award</a>, thanks a lot for the generous support from NVIDIA!</p>
 <p>2025.07: One paper got accepted in IROS 2025, one paper in Humanoids 2025.</p>
