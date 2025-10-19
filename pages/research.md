@@ -6,6 +6,17 @@ permalink: /research
 <div class="publications-list">
     <div class="publication-card">
         <div class="publication-image-container">
+            <img src="/assets/research_img/sa25-posters.png" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">Fast and Stable Elastic Dynamics with Large-scale Contact Simulation</div>
+            <div class="publication-authors">Ziqiu Zeng, Siyuan Luo, Eric Yang, Fan Shi</div>
+            <div class="publication-venue">ACM SIGGRAPH Asia 2025 Posters</div>
+        </div>
+</div>
+<div class="publications-list">
+    <div class="publication-card">
+        <div class="publication-image-container">
             <img src="/assets/research_img/humanoids25.jpg" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
