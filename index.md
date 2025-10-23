@@ -6,7 +6,7 @@ gallery_images:
   - /assets/cover_img/circus_manip.gif
   - /assets/cover_img/legged_outdoor.gif
   - /assets/cover_img/diffsim.gif
-  - /assets/cover_img/humanoid.gif
+  - /assets/cover_img/pnd_clothes_folding.gif
 gallery_alts:
   - Research Demo 1
   - Research Demo 2
