@@ -13,9 +13,10 @@ gallery_alts:
   - Research Demo 3
   - Research Demo 4
 intro_text: >
-  <p>Welcome to <span style="color: black; font-weight: bold;">NUS Human-Centered Robotic Lab</span> (HcRL)! We are in Electrical and Computer Engineering Department, College of Design and Engineering, National University of Singapore.</p>
-  <p>We are developing <span style="color: blue; font-weight: bold;">intelligent</span> and <span style="color: green; font-weight: bold;">safe</span> robotic and AI systems, powered by fundamental innovation. </p>
-  <p>Our vision is human-first: we aim to solve real-world problems to help robots do good, supporting and enhancing life in human-centered environments.</p>
+  <p>Welcome to <span style="color: black; font-weight: bold;">NUS Human-Centered Robotic Lab</span> (HcRL)! We are developing <span style="color: blue; font-weight: bold;">intelligent</span> and <span style="color: green; font-weight: bold;">safe</span> robotic and AI systems</p>
+  
+  <p>We firmly believe without fundamental breakthroughs, there can be no real innovation. </p>
+    
 news_title: News
 ---
 
