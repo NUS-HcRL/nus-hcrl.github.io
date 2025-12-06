@@ -20,10 +20,12 @@ intro_text: >
 news_title: News
 ---
 
-<p>2025.09: Our proposal on Simulation and AI for Robotics was awarded by Research Funding from Google. We sincerely thank Google for their support and NUS AI Institute for  invaluable recommendation! Kodos to Ziqiu and Siyuan!</p>
-<p>2025.08: Great honor to be invited to talk in CoRL 2025 Workshop <a href="https://sites.google.com/view/corl-2025-safe-rol-workshop/">Safe and Robust Robot Learning for Operation in the Real World</a>, look forward to seeing you in Seoul!</p>
+<p>2025.12: Fan gives a talk in <a href="https://sites.google.com/view/abudhabi-airoc2025/speakers?authuser=0/">Abu Dhabi AI-Robotics Conference: Dialogue on Humanoids</a>. Thanks for the invitation!</p>
+<p>2025.10: Our robot is demonstrated in NUS CDE Industry Day 2025.</p>
+<p>2025.09: Our proposal on Simulation and AI for Robotics was awarded by Research Funding from <strong>Google</strong>. Thanks for the generous support, kodos to Ziqiu and Siyuan!</p>
+<p>2025.08: Honored to be invited to talk in CoRL 2025 Workshop <a href="https://sites.google.com/view/corl-2025-safe-rol-workshop/">Safe and Robust Robot Learning for Operation in the Real World</a>, look forward to seeing you in Seoul!</p>
 <p>2025.08: Welcome Pengzhi from TU Delft and Bingyang from HKU to join us on their PhD journey!</p>
-<p>2025.07: Ziqiu presented his fast but accurate simulation work in NUS AI Research Day and Poster Session of RAS TC Model-Based Optimization.</p>
+<p>2025.07: Ziqiu presented his fast but accurate simulation work in NUS AI Research Day and RAS TC Model-Based Optimization session.</p>
 <p>2025.07: Our project is selected by <a href="https://www.nvidia.com/en-sg/industries/higher-education-research/academic-grant-program/">NVIDIA Academic Grant Program Award</a>, thanks a lot for the generous support from NVIDIA!</p>
 <p>2025.07: One paper got accepted in IROS 2025, one paper in Humanoids 2025.</p>
 <p>2025.06: We will organize an IROS 2025 workshop on <a href="https://sites.google.com/view/wheeledleggedrobotics?usp=sharing">The Future of Hybrid Mobility</a> with great speakers on legged robots. Welcome to join us!</p>
