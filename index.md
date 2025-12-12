@@ -20,6 +20,7 @@ intro_text: >
 news_title: News
 ---
 
+<p>2025.12: Fan serves as the Area Chair for RSS 2026.</p>
 <p>2025.12: Fan gives a talk in <a href="https://sites.google.com/view/abudhabi-airoc2025/speakers?authuser=0/">Abu Dhabi AI-Robotics Conference: Dialogue on Humanoids</a>. Thanks for the invitation!</p>
 <p>2025.10: Our robot is demonstrated in NUS CDE Industry Day 2025.</p>
 <p>2025.09: Our proposal on Simulation and AI for Robotics was awarded by Research Funding from <strong>Google</strong>. Thanks for the generous support, kodos to Ziqiu and Siyuan!</p>
