@@ -27,6 +27,13 @@ permalink: /lab
       <div class="member-position">Research Fellow</div>
     </div>
   </a>
+  <a href="https://yulinli0.github.io/" class="member-link" target="_blank">
+    <div class="member-card">
+      <img src="/assets/img/Yulin.jpg" class="member-photo" alt="Yulin Li">
+      <div class="member-name">Yulin Li</div>
+      <div class="member-position">Research Fellow</div>
+    </div>
+  </a>
   <a href="https://www.siyuanluo.com/" class="member-link" target="_blank">
     <div class="member-card">
       <img src="/assets/img/Siyuan.jpg" class="member-photo" alt="Siyuan Luo">
