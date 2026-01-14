@@ -74,13 +74,18 @@ permalink: /lab
       <div class="member-position">PhD Student (Co-supervise with Prof. Ee-Chien Chang)</div>
   </div>
   <div class="member-card">
-        <img src="/assets/img/Xin.jpg" class="member-photo" alt="Xin Liu">
-        <div class="member-name">Xin Liu</div>
-        <div class="member-position">Visiting Student</div>
+      <img src="/assets/img/João.jpg" class="member-photo" alt="João Pinho">
+      <div class="member-name">João Pinho</div>
+      <div class="member-position">PhD Student (Co-supervise with Prof. Vincent Bonnet)</div>
   </div>
   <div class="member-card">
-        <img src="/assets/img/Zixuan.jpg" class="member-photo" alt="Zixuan Zhuang">
-        <div class="member-name">Zixuan Zhuang</div>
+      <img src="/assets/img/Kehan.jpg" class="member-photo" alt="Kehan Wen">
+      <div class="member-name">Kehan Wen</div>
+      <div class="member-position">PhD Student</div>
+  </div>
+  <div class="member-card">
+        <img src="/assets/img/Xin.jpg" class="member-photo" alt="Xin Liu">
+        <div class="member-name">Xin Liu</div>
         <div class="member-position">Visiting Student</div>
   </div>
   <a href="https://xkq1qkx.github.io/" class="member-link" target="_blank">
