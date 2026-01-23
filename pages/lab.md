@@ -84,6 +84,11 @@ permalink: /lab
       <div class="member-position">PhD Student</div>
   </div>
   <div class="member-card">
+      <img src="/assets/img/Tianao.jpg" class="member-photo" alt="Tianao Xu">
+      <div class="member-name">Tianao Xu</div>
+      <div class="member-position">PhD Student (Co-supervise with Prof. Ngiam Kee Yuan)</div>
+  </div>
+  <div class="member-card">
         <img src="/assets/img/Xin.jpg" class="member-photo" alt="Xin Liu">
         <div class="member-name">Xin Liu</div>
         <div class="member-position">Visiting Student</div>
