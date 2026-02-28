@@ -17,7 +17,7 @@ permalink: /research
 <div class="publications-list">
     <div class="publication-card">
         <div class="publication-image-container">
-            <img src="/assets/research_img/sa25-posters.png" alt="Publication Image" class="publication-image">
+            <img src="/assets/research_img/sa25-posters.gif" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
             <div class="publication-title">Fast and Stable Elastic Dynamics with Large-scale Contact Simulation</div>
