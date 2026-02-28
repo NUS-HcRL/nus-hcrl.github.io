@@ -11,7 +11,7 @@ permalink: /research
         <div class="publication-info">
             <div class="publication-title">REBot: Reflexive Evasion Robot for Instantaneous Dynamic Obstacle Avoidance</div>
             <div class="publication-authors">Zihao Xu, Ce Hao, Chunzheng Wang, Kuankuan Sima, Fan Shi, Jin Song Dong</div>
-            <div class="publication-venue">IEEE Robotics and Automation Letters (RA-L) 2025 Posters</div>
+            <div class="publication-venue">IEEE Robotics and Automation Letters (RA-L) 2025</div>
         </div>
 </div>
 <div class="publications-list">
