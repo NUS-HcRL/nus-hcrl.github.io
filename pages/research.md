@@ -3,6 +3,29 @@ layout: research
 permalink: /research
 ---
 
+
+<div class="publications-list">
+    <div class="publication-card">
+        <div class="publication-image-container">
+            <img src="/assets/research_img/humanoid-fall-full.gif" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">Soft Responsive Materials Enhance Humanoid Safety</div>
+            <div class="publication-authors">Chunzheng Wang, Yiyuan Zhang, Annan Tang, Ziqiu Zeng, Haoran Chen, Quan Gao, Zixuan Zhuang, Boyu Li, Zhilin Xiong, Aoqian Zhang, Ce Hao, Siyuan Luo, Tongyang Zhao, Cecilia Laschi, Fan Shi</div>
+            <div class="publication-venue">arXiv</div>
+        </div>
+</div>
+<div class="publications-list">
+    <div class="publication-card">
+        <div class="publication-image-container">
+            <img src="/assets/research_img/iros26-sac.jpg" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">SAC-Loco: Safe and Adjustable Compliant Quadrupedal Locomotion</div>
+            <div class="publication-authors">Aoqian Zhang, Zixuan Zhuang, Chunzheng Wang, Shuzhi Sam Ge, Fan Shi, Cheng Xiang</div>
+            <div class="publication-venue">arXiv</div>
+        </div>
+</div>
 <div class="publications-list">
     <div class="publication-card">
         <div class="publication-image-container">
