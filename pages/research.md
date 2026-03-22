@@ -4,6 +4,19 @@ permalink: /research
 ---
 
 
+<div class="publication-card">
+        <div class="publication-image-container">
+            <img src="/assets/research_img/icra26-gnn.gif" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">Few-Shot Neural Differentiable Simulator: Real-to-Sim Rigid-Contact Modeling</div>
+            <div class="publication-authors">Zhenhao Huang, Siyuan Luo, Bingyang Zhou, Ziqiu Zeng, Jason Pho, Fan Shi</div>
+            <div class="publication-venue">International Conference on Robotics and Automation (ICRA) 2026</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2603.06218" class="publication-link" target="_blank">Paper</a>
+            </div>
+        </div>
+    </div>
 <div class="publications-list">
     <div class="publication-card">
         <div class="publication-image-container">
