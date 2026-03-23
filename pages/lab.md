@@ -41,11 +41,13 @@ permalink: /lab
       <div class="member-position">Research Engineer</div>
     </div>
   </a>
-  <div class="member-card">
-        <img src="/assets/img/Zhenhao.jpg" class="member-photo" alt="Zhenhao Huang">
-        <div class="member-name">Zhenhao Huang</div>
-        <div class="member-position">PhD Student</div>
-  </div>
+  <a href="https://zhenhaoh.github.io/" class="member-link" target="_blank">
+    <div class="member-card">
+          <img src="/assets/img/Zhenhao.jpg" class="member-photo" alt="Zhenhao Huang">
+          <div class="member-name">Zhenhao Huang</div>
+          <div class="member-position">PhD Student</div>
+    </div>
+  </a>
   <div class="member-card">
       <img src="/assets/img/Chunzheng.jpg" class="member-photo" alt="Chunzheng Wang">
       <div class="member-name">Chunzheng Wang</div>
