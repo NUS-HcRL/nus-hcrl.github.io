@@ -56,13 +56,13 @@ permalink: /lab
     </div>
   </a>
   <div class="member-card">
-      <img src="/assets/img/Chunzheng.jpg" class="member-photo" alt="Chunzheng Wang">
-      <div class="member-name">Chunzheng Wang</div>
+      <img src="/assets/img/Yanrui.jpg" class="member-photo" alt="Yan Rui Tan">
+      <div class="member-name">Yan Rui Tan</div>
       <div class="member-position">PhD Student</div>
   </div>
   <div class="member-card">
-      <img src="/assets/img/Yanrui.jpg" class="member-photo" alt="Yan Rui Tan">
-      <div class="member-name">Yan Rui Tan</div>
+      <img src="/assets/img/Chunzheng.jpg" class="member-photo" alt="Chunzheng Wang">
+      <div class="member-name">Chunzheng Wang</div>
       <div class="member-position">PhD Student</div>
   </div>
   <a href="https://pengzhi1998.github.io/" class="member-link" target="_blank">
