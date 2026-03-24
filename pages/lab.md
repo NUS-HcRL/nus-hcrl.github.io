@@ -41,6 +41,13 @@ permalink: /lab
       <div class="member-position">Research Engineer</div>
     </div>
   </a>
+  <a href="https://www.linkedin.com/in/ziming-li-8b68b7280/" class="member-link" target="_blank">
+    <div class="member-card">
+          <img src="/assets/img/Ziming.jpeg" class="member-photo" alt="Zhenhao Huang">
+          <div class="member-name">Ziming Li</div>
+          <div class="member-position">Research Engineer</div>
+    </div>
+  </a>
   <a href="https://zhenhaoh.github.io/" class="member-link" target="_blank">
     <div class="member-card">
           <img src="/assets/img/Zhenhao.jpg" class="member-photo" alt="Zhenhao Huang">
@@ -95,6 +102,13 @@ permalink: /lab
         <div class="member-name">Xin Liu</div>
         <div class="member-position">Visiting Student</div>
   </div>
+  <a href="https://www.cs.ubc.ca/~gxchen/" class="member-link" target="_blank">
+    <div class="member-card">
+      <img src="/assets/img/Guanxiong.jpeg" class="member-photo" alt="Kunqi Xu">
+      <div class="member-name">Guanxiong Chen</div>
+      <div class="member-position">Visiting Student</div>
+    </div>
+  </a>
   <a href="https://xkq1qkx.github.io/" class="member-link" target="_blank">
     <div class="member-card">
       <img src="/assets/img/Kunqi.jpg" class="member-photo" alt="Kunqi Xu">
