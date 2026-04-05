@@ -109,6 +109,13 @@ permalink: /lab
       <div class="member-position">Visiting Student</div>
     </div>
   </a>
+  <a href="https://www.linkedin.com/in/yiduo-qu-59115321b/" class="member-link" target="_blank">
+    <div class="member-card">
+      <img src="/assets/img/yiduo.jpeg" class="member-photo" alt="Kunqi Xu">
+      <div class="member-name">Yee Yiduo Qu</div>
+      <div class="member-position">Visiting Student</div>
+    </div>
+  </a>
   <a href="https://xkq1qkx.github.io/" class="member-link" target="_blank">
     <div class="member-card">
       <img src="/assets/img/Kunqi.jpg" class="member-photo" alt="Kunqi Xu">
