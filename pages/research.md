@@ -6,6 +6,42 @@ permalink: /research
 
 <div class="publication-card">
         <div class="publication-image-container">
+            <img src="/assets/research_img/despite26.jpeg" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">Using large language models for embodied planning introduces systematic safety risks</div>
+            <div class="publication-authors">Tao Zhang, Kaixian Qu, Alex Zhibin Li, Jiajun Wu, Marco Hutter, Manling Li, Fan Shi</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2604.18463" class="publication-link" target="_blank">arXiv</a>
+            </div>
+        </div>
+    </div>
+<div class="publication-card">
+        <div class="publication-image-container">
+            <img src="/assets/research_img/flash26.png" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">FLASH: Fast Learning via GPU-Accelerated Simulation for High-Fidelity Deformable Manipulation in Minutes</div>
+            <div class="publication-authors">Siyuan Luo, Bingyang Zhou, Chong Zhang, Xin Liu, Zhenhao Huang, Gang Yang, Zhengtao Han, Xiaotian Hu, Eric Yang, Rymon Yu, Ziqiu Zeng, Fan Shi</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2604.17513" class="publication-link" target="_blank">arXiv</a>
+            </div>
+        </div>
+    </div>
+<div class="publication-card">
+        <div class="publication-image-container">
+            <img src="/assets/research_img/difffba26.png" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">Fast and Reliable Gradients for Deformables Across Frictional Contact Regimes</div>
+            <div class="publication-authors">Ziqiu Zeng, Gang Yang, Zhenhao Huang, Yulin Li, Jason Pho, Siyuan Luo, Fan Shi</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2603.16478" class="publication-link" target="_blank">arXiv</a>
+            </div>
+        </div>
+    </div>
+<div class="publication-card">
+        <div class="publication-image-container">
             <img src="/assets/research_img/icra26-gnn.gif" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
@@ -25,9 +61,23 @@ permalink: /research
         <div class="publication-info">
             <div class="publication-title">Soft Responsive Materials Enhance Humanoid Safety</div>
             <div class="publication-authors">Chunzheng Wang, Yiyuan Zhang, Annan Tang, Ziqiu Zeng, Haoran Chen, Quan Gao, Zixuan Zhuang, Boyu Li, Zhilin Xiong, Aoqian Zhang, Ce Hao, Siyuan Luo, Tongyang Zhao, Cecilia Laschi, Fan Shi</div>
-            <div class="publication-venue">arXiv</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2601.02857" class="publication-link" target="_blank">arXiv</a>
+            </div>
         </div>
 </div>
+<div class="publication-card">
+        <div class="publication-image-container">
+            <img src="/assets/research_img/humanoid-survey26.png" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">Evolution of humanoid locomotion control</div>
+            <div class="publication-authors">Yan Gu, Guanya Shi, Fan Shi, I-Chia Chang, Yen-Jen Wang, Qilong Cheng, Zachary Olkin, Ivan Lopez-Sanchez, Yunchu Feng, Jian Zhang, Aaron D Ames, Hao Su, Koushil Sreenath</div>
+            <div class="publication-links">
+                <a href="https://www.thetracelab.com/uploads/1/1/3/0/113094493/evolution_of_humanoid_locomotion_control_1203.pdf" class="publication-link" target="_blank">arXiv</a>
+            </div>
+        </div>
+    </div>
 <div class="publications-list">
     <div class="publication-card">
         <div class="publication-image-container">
