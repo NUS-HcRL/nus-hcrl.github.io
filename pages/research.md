@@ -9,7 +9,7 @@ permalink: /research
             <img src="/assets/research_img/despite26.jpeg" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
-            <div class="publication-title">Using large language models for embodied planning introduces systematic safety risks</div>
+            <div class="publication-title">Using Large Language Models for Embodied Planning Introduces Systematic Safety Risks</div>
             <div class="publication-authors">Tao Zhang, Kaixian Qu, Alex Zhibin Li, Jiajun Wu, Marco Hutter, Manling Li, Fan Shi</div>
             <div class="publication-links">
                 <a href="https://arxiv.org/abs/2604.18463" class="publication-link" target="_blank">arXiv</a>
@@ -71,7 +71,7 @@ permalink: /research
             <img src="/assets/research_img/humanoid-survey26.png" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
-            <div class="publication-title">Evolution of humanoid locomotion control</div>
+            <div class="publication-title">Evolution of Humanoid Locomotion Control</div>
             <div class="publication-authors">Yan Gu, Guanya Shi, Fan Shi, I-Chia Chang, Yen-Jen Wang, Qilong Cheng, Zachary Olkin, Ivan Lopez-Sanchez, Yunchu Feng, Jian Zhang, Aaron D Ames, Hao Su, Koushil Sreenath</div>
             <div class="publication-links">
                 <a href="https://www.thetracelab.com/uploads/1/1/3/0/113094493/evolution_of_humanoid_locomotion_control_1203.pdf" class="publication-link" target="_blank">arXiv</a>
