@@ -4,7 +4,7 @@ title: Home
 permalink: /
 gallery_images:
   - /assets/cover_img/circus_manip.gif
-  - /assets/cover_img/legged_outdoor.gif
+  - /assets/research_img/humanoid-fall-full.gif
   - /assets/cover_img/diffsim.gif
   - /assets/cover_img/pnd_clothes_folding.gif
 gallery_alts:
