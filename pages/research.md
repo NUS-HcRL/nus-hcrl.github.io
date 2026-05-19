@@ -30,7 +30,7 @@ permalink: /research
     </div>
 <div class="publication-card">
         <div class="publication-image-container">
-            <img src="/assets/research_img/difffba26.png" alt="Publication Image" class="publication-image">
+            <img src="/assets/research_img/difffba26.gif" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
             <div class="publication-title">Fast and Reliable Gradients for Deformables Across Frictional Contact Regimes</div>
