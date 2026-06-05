@@ -116,13 +116,11 @@ permalink: /lab
       <div class="member-position">Visiting Student</div>
     </div>
   </a>
-  <a href="https://xkq1qkx.github.io/" class="member-link" target="_blank">
-    <div class="member-card">
-      <img src="/assets/img/Kunqi.jpg" class="member-photo" alt="Kunqi Xu">
-      <div class="member-name">Kunqi Xu</div>
-      <div class="member-position">Visiting Student</div>
-    </div>
-  </a>
+  <div class="member-card">
+    <img src="/assets/img/Hongyu.jpg" class="member-photo" alt="Hongyu Tao">
+    <div class="member-name">Hongyu Tao</div>
+    <div class="member-position">Visiting Student</div>
+  </div>
 </div>
 
 ## Previous Students
