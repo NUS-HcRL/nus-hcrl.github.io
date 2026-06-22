@@ -20,6 +20,7 @@ intro_text: >
 news_title: News
 ---
 
+<p>2026.06: We gave a talk at NVIDIA Robotics about our simulation's latest progress. Thanks Yan for the invitation! </p>
 <p>2026.04: Our safe humanoid research won Outstanding Demo Award at RoboSoft 2026 “Living with Robots Safely” Workshop. </p>
 <p>2026.03: Fan serves as co-chair for ICRA Late-breaking Results track and as faculty reviewer for RSS Pioneer.</p>
 <p>2026.01: Honored to present a <a href="https://www.linkedin.com/posts/fanshi-robot_aaai2026-activity-7419715972577804289-9FFI?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLhO_ABEFpj-NlllWjPoBT-tdvLZ4PNqCs/">live demo</a> in NUS Booth @AAAI 2026. Humanoid learns to manipulate deformable objects purely from our developed simulation.</p>
@@ -38,12 +39,9 @@ news_title: News
 <p>2025.06: We will organize an IROS 2025 workshop on <a href="https://sites.google.com/view/wheeledleggedrobotics?usp=sharing">The Future of Hybrid Mobility</a> with great speakers on legged robots. Welcome to join us!</p>
 <p>2025.05: Fan gave talks at MIT and WPI on "Reinforcement Learning in Robotics: Wins, Fails, and the Next". Thanks for the invitation!</p>
 <p>2025.05: We will organize ICRA 2025 <a href="https://sites.google.com/view/reliable-embodied-ai/home">Towards Reliable & Trustworthy Embodied AI in Everyday Scenarios Workshop</a>. Welcome to join us!</p>
-<p>2025.05: "Learning to Assemble with Alternative Plans" has been accepted to SIGGRAPH 2025 (Journal Track). Kudos to <a href="https://isd.hkust.edu.hk/node/185">Prof. Ziqi Wang</a> and the team!</p>
 <p>2025.05: Ziqiu gave a talk at ETH CRL Seminar on "Fast But Accurate: The Next-Generation Physics Engine for Soft Body Simulations?". Thanks for the invitation!</p>
 <p>2025.04: Fan will be joining ICLR 2025 <a href="https://sites.google.com/stanford.edu/haic2025/home?authuser=0">Workshop on Human-AI Coevolution</a>. Looking forward to catching up with you there!</p>
-<p>2025.04: Our paper "Fast But Accurate: A Real-Time Hyperelastic Simulator with Robust Frictional Contact" has been accepted to SIGGRAPH 2025 (Journal Track). Read it <a href="https://arxiv.org/abs/2503.15078">here</a>.</p>
 <p>2025.04: Two Papers got accepted by SIGGRAPH 2025.</p>
-<p>2025.03: Fan gave talks at Singapore Intelligence, Robotics and Control Symposium.</p>
 <p>2025.01: Fan will serve as the Associate Editor in RA-L and IROS 2025.</p>
 <p>2025.01: 2 paper accepted in ICRA 2025, 1 paper accepted in RoboSoft 2025, 1 paper accepted in SSRR. Congratulations to all the collaborators!</p>
 <p>2024.11: Fan gave talks at Technical University of Munich (TUM) and Embodied AI Workshop, Distributed AI (DAI) 2024 Conference.</p>
