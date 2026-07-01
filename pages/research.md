@@ -9,7 +9,7 @@ permalink: /research
             <img src="/assets/research_img/corl26-rarm.gif" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
-            <div class="publication-title">sss</div>
+            <div class="publication-title">RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation</div>
             <div class="publication-authors">Pengzhi Yang, Xinyu Wang, Pengyu Jing, Kehan Wen, Yiduo Qu, Zhenhao Huang, Minghao Fu, Xin Liu, Yaheng Shen, Fan Shi</div>
             <div class="publication-links">
                 <a href="https://rarm-robotics.github.io/" class="publication-link">Project</a> 
