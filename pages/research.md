@@ -3,6 +3,20 @@ layout: research
 permalink: /research
 ---
 
+
+<div class="publication-card">
+        <div class="publication-image-container">
+            <img src="/assets/research_img/corl26-rarm.gif" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">sss</div>
+            <div class="publication-authors">Pengzhi Yang, Xinyu Wang, Pengyu Jing, Kehan Wen, Yiduo Qu, Zhenhao Huang, Minghao Fu, Xin Liu, Yaheng Shen, Fan Shi</div>
+            <div class="publication-links">
+                <a href="https://rarm-robotics.github.io/" class="publication-link">Project</a> 
+                <a href="https://arxiv.org/abs/2606.22027" class="publication-link" target="_blank">arXiv</a>
+            </div>
+        </div>
+    </div>
 <div class="publication-card">
         <div class="publication-image-container">
             <img src="/assets/research_img/corl26-mppi.gif" alt="Publication Image" class="publication-image">
