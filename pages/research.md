@@ -44,7 +44,7 @@ permalink: /research
     </div>
 <div class="publication-card">
         <div class="publication-image-container">
-            <img src="/assets/cover_img/pnd_clothes_folding.gif" alt="Publication Image" class="publication-image">
+            <img src="/assets/research_img/flash.gif" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
             <div class="publication-title">FLASH: Fast Learning via GPU-Accelerated Simulation for High-Fidelity Deformable Manipulation in Minutes</div>
