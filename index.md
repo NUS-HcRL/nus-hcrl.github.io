@@ -6,7 +6,7 @@ gallery_images:
   - /assets/cover_img/circus_manip.gif
   - /assets/research_img/humanoid-fall-full.gif
   - /assets/cover_img/diffsim.gif
-  - /assets/cover_img/pnd_clothes_folding.gif
+  - /assets/research_img/flash.gif
 gallery_alts:
   - Research Demo 1
   - Research Demo 2
