@@ -41,13 +41,6 @@ permalink: /lab
       <div class="member-position">Research Engineer</div>
     </div>
   </a>
-  <a href="https://www.linkedin.com/in/ziming-li-8b68b7280/" class="member-link" target="_blank">
-    <div class="member-card">
-          <img src="/assets/img/Ziming.jpeg" class="member-photo" alt="Zhenhao Huang">
-          <div class="member-name">Ziming Li</div>
-          <div class="member-position">Research Engineer</div>
-    </div>
-  </a>
   <a href="https://zhenhaoh.github.io/" class="member-link" target="_blank">
     <div class="member-card">
           <img src="/assets/img/Zhenhao.jpg" class="member-photo" alt="Zhenhao Huang">
@@ -56,13 +49,13 @@ permalink: /lab
     </div>
   </a>
   <div class="member-card">
-      <img src="/assets/img/Yanrui.jpg" class="member-photo" alt="Yan Rui Tan">
-      <div class="member-name">Yan Rui Tan</div>
+      <img src="/assets/img/Chunzheng.jpg" class="member-photo" alt="Chunzheng Wang">
+      <div class="member-name">Chunzheng Wang</div>
       <div class="member-position">PhD Student</div>
   </div>
   <div class="member-card">
-      <img src="/assets/img/Chunzheng.jpg" class="member-photo" alt="Chunzheng Wang">
-      <div class="member-name">Chunzheng Wang</div>
+      <img src="/assets/img/Yanrui.jpg" class="member-photo" alt="Yan Rui Tan">
+      <div class="member-name">Yan Rui Tan</div>
       <div class="member-position">PhD Student</div>
   </div>
   <a href="https://pengzhi1998.github.io/" class="member-link" target="_blank">
@@ -72,36 +65,55 @@ permalink: /lab
       <div class="member-position">PhD Student</div>
     </div>
   </a>
-  <div class="member-card">
-      <img src="/assets/img/Bingyang.jpg" class="member-photo" alt="Bingyang Zhou">
-      <div class="member-name">Bingyang Zhou</div>
-      <div class="member-position">PhD Student</div>
-  </div>
-  <div class="member-card">
-      <img src="/assets/img/Gang.jpg" class="member-photo" alt="Gang Yang">
-      <div class="member-name">Gang Yang</div>
-      <div class="member-position">PhD Student (Co-supervise with Prof. Ee-Chien Chang)</div>
-  </div>
-  <div class="member-card">
-      <img src="/assets/img/João.jpg" class="member-photo" alt="João Pinho">
-      <div class="member-name">João Pinho</div>
-      <div class="member-position">PhD Student (Co-supervise with Prof. Vincent Bonnet)</div>
-  </div>
-  <div class="member-card">
-      <img src="/assets/img/Kehan.jpg" class="member-photo" alt="Kehan Wen">
-      <div class="member-name">Kehan Wen</div>
-      <div class="member-position">PhD Student</div>
-  </div>
-  <div class="member-card">
-      <img src="/assets/img/Tianao.jpg" class="member-photo" alt="Tianao Xu">
-      <div class="member-name">Tianao Xu</div>
-      <div class="member-position">PhD Student (Co-supervise with Prof. Ngiam Kee Yuan)</div>
-  </div>
-  <div class="member-card">
-        <img src="/assets/img/Xin.jpg" class="member-photo" alt="Xin Liu">
-        <div class="member-name">Xin Liu</div>
-        <div class="member-position">Visiting Student</div>
-  </div>
+  <a href="https://scholar.google.com/citations?user=_i3BHIMAAAAJ/" class="member-link" target="_blank">
+    <div class="member-card">
+        <img src="/assets/img/Bingyang.jpg" class="member-photo" alt="Bingyang Zhou">
+        <div class="member-name">Bingyang Zhou</div>
+        <div class="member-position">PhD Student</div>
+    </div>
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3opinho/" class="member-link" target="_blank">
+    <div class="member-card">
+        <img src="/assets/img/João.jpg" class="member-photo" alt="João Pinho">
+        <div class="member-name">João Pinho</div>
+        <div class="member-position">PhD Student (Co-supervise with Prof. Vincent Bonnet)</div>
+    </div>
+  </a>
+  <a href="https://www.linkedin.com/in/gang-yang-a869492bb/" class="member-link" target="_blank">
+    <div class="member-card">
+        <img src="/assets/img/Gang.jpg" class="member-photo" alt="Gang Yang">
+        <div class="member-name">Gang Yang</div>
+        <div class="member-position">PhD Student (Co-supervise with Prof. Ee-Chien Chang)</div>
+    </div>
+  </a>
+  <a href="https://www.linkedin.com/in/kehanwen0923/" class="member-link" target="_blank">
+    <div class="member-card">
+        <img src="/assets/img/Kehan.jpg" class="member-photo" alt="Kehan Wen">
+        <div class="member-name">Kehan Wen</div>
+        <div class="member-position">PhD Student</div>
+    </div>
+  </a>
+  <a href="https://www.linkedin.com/in/tianao-xu-066b51258/" class="member-link" target="_blank">
+    <div class="member-card">
+        <img src="/assets/img/Tianao.jpg" class="member-photo" alt="Tianao Xu">
+        <div class="member-name">Tianao Xu</div>
+        <div class="member-position">PhD Student (Co-supervise with Prof. Ngiam Kee Yuan)</div>
+    </div>
+  </a>
+  <a href="https://www.linkedin.com/in/ziming-li-8b68b7280/" class="member-link" target="_blank">
+    <div class="member-card">
+          <img src="/assets/img/Ziming.jpeg" class="member-photo" alt="Zhenhao Huang">
+          <div class="member-name">Ziming Li</div>
+          <div class="member-position">Research Engineer</div>
+    </div>
+  </a>
+  <a href="https://www.linkedin.com/in/xin-liu-9533243a7/" class="member-link" target="_blank">
+    <div class="member-card">
+          <img src="/assets/img/Xin.jpg" class="member-photo" alt="Xin Liu">
+          <div class="member-name">Xin Liu</div>
+          <div class="member-position">Visiting Student</div>
+    </div>
+  </a>
   <a href="https://www.cs.ubc.ca/~gxchen/" class="member-link" target="_blank">
     <div class="member-card">
       <img src="/assets/img/Guanxiong.jpeg" class="member-photo" alt="Kunqi Xu">
@@ -116,11 +128,13 @@ permalink: /lab
       <div class="member-position">Visiting Student</div>
     </div>
   </a>
-  <div class="member-card">
-    <img src="/assets/img/Hongyu.jpg" class="member-photo" alt="Hongyu Tao">
-    <div class="member-name">Hongyu Tao</div>
-    <div class="member-position">Visiting Student</div>
-  </div>
+  <a href="https://scholar.google.com/citations?user=VAVozZEAAAAJ/" class="member-link" target="_blank">
+    <div class="member-card">
+      <img src="/assets/img/Hongyu.jpg" class="member-photo" alt="Hongyu Tao">
+      <div class="member-name">Hongyu Tao</div>
+      <div class="member-position">Visiting Student</div>
+    </div>
+  </a>
 </div>
 
 ## Previous Students
