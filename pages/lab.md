@@ -48,16 +48,20 @@ permalink: /lab
           <div class="member-position">PhD Student</div>
     </div>
   </a>
-  <div class="member-card">
-      <img src="/assets/img/Chunzheng.jpg" class="member-photo" alt="Chunzheng Wang">
-      <div class="member-name">Chunzheng Wang</div>
-      <div class="member-position">PhD Student</div>
-  </div>
-  <div class="member-card">
-      <img src="/assets/img/Yanrui.jpg" class="member-photo" alt="Yan Rui Tan">
-      <div class="member-name">Yan Rui Tan</div>
-      <div class="member-position">PhD Student</div>
-  </div>
+  <a href="https://www.linkedin.com/in/chunzheng-wang-06a024366/" class="member-link" target="_blank">
+    <div class="member-card">
+        <img src="/assets/img/Chunzheng.jpg" class="member-photo" alt="Chunzheng Wang">
+        <div class="member-name">Chunzheng Wang</div>
+        <div class="member-position">PhD Student</div>
+    </div>
+  </a>
+  <a href="https://scholar.google.com/citations?user=kwhFI3MAAAAJ/" class="member-link" target="_blank">
+    <div class="member-card">
+        <img src="/assets/img/Yanrui.jpg" class="member-photo" alt="Yan Rui Tan">
+        <div class="member-name">Yan Rui Tan</div>
+        <div class="member-position">PhD Student</div>
+    </div>
+  </a>
   <a href="https://pengzhi1998.github.io/" class="member-link" target="_blank">
     <div class="member-card">
       <img src="/assets/img/Pengzhi.jpg" class="member-photo" alt="Pengzhi Yang">
@@ -70,13 +74,6 @@ permalink: /lab
         <img src="/assets/img/Bingyang.jpg" class="member-photo" alt="Bingyang Zhou">
         <div class="member-name">Bingyang Zhou</div>
         <div class="member-position">PhD Student</div>
-    </div>
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3opinho/" class="member-link" target="_blank">
-    <div class="member-card">
-        <img src="/assets/img/João.jpg" class="member-photo" alt="João Pinho">
-        <div class="member-name">João Pinho</div>
-        <div class="member-position">PhD Student (Co-supervise with Prof. Vincent Bonnet)</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/gang-yang-a869492bb/" class="member-link" target="_blank">
@@ -93,6 +90,13 @@ permalink: /lab
         <div class="member-position">PhD Student</div>
     </div>
   </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3opinho/" class="member-link" target="_blank">
+    <div class="member-card">
+        <img src="/assets/img/João.jpg" class="member-photo" alt="João Pinho">
+        <div class="member-name">João Pinho</div>
+        <div class="member-position">PhD Student (Co-supervise with Prof. Vincent Bonnet)</div>
+    </div>
+  </a>
   <a href="https://www.linkedin.com/in/tianao-xu-066b51258/" class="member-link" target="_blank">
     <div class="member-card">
         <img src="/assets/img/Tianao.jpg" class="member-photo" alt="Tianao Xu">
@@ -104,7 +108,7 @@ permalink: /lab
     <div class="member-card">
           <img src="/assets/img/Ziming.jpeg" class="member-photo" alt="Zhenhao Huang">
           <div class="member-name">Ziming Li</div>
-          <div class="member-position">Research Engineer</div>
+          <div class="member-position">PhD Student</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/xin-liu-9533243a7/" class="member-link" target="_blank">
