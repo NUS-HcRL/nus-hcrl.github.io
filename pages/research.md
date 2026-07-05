@@ -111,7 +111,7 @@ permalink: /research
         </div>
         <div class="publication-info">
             <div class="publication-title">SAC-Loco: Safe and Adjustable Compliant Quadrupedal Locomotion</div>
-            <div class="publication-authors">Aoqian Zhang, Zixuan Zhuang, Chunzheng Wang, Shuzhi Sam Ge, Fan Shi*, Cheng Xiang*</div>
+            <div class="publication-authors">Aoqian Zhang, Cheng Xiang, Zixuan Zhuang, Chunzheng Wang, Fan Shi*, Shuzhi Sam Ge*</div>
             <div class="publication-venue">IROS 2026</div>
         </div>
 </div>
