@@ -20,10 +20,11 @@ intro_text: >
 news_title: News
 ---
 
-<p>2026.06: We gave a talk at NVIDIA Robotics about our simulation's latest progress. Thanks Yan for the invitation! </p>
+<p>2026.07: We will give a talk at RSS 2026 Workshop: <a href="https://opendrivelab.com/rss2026/workshop/">Towards Robust Execution of Long-Horizon Whole-Body Control Tasks</a>. Look forward to seeing you in Sydney! </p>
+<p>2026.06: We gave a talk at NVIDIA Robotics about our simulation and robot learning's latest progress. Thanks Yan for the invitation! </p>
 <p>2026.04: Our safe humanoid research won Outstanding Demo Award at RoboSoft 2026 “Living with Robots Safely” Workshop. </p>
 <p>2026.03: Fan serves as co-chair for ICRA Late-breaking Results track and as faculty reviewer for RSS Pioneer.</p>
-<p>2026.01: Honored to present a <a href="https://www.linkedin.com/posts/fanshi-robot_aaai2026-activity-7419715972577804289-9FFI?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLhO_ABEFpj-NlllWjPoBT-tdvLZ4PNqCs/">live demo</a> in NUS Booth @AAAI 2026. Humanoid learns to manipulate deformable objects purely from our developed simulation.</p>
+<p>2026.01: Honored to present a <a href="https://www.linkedin.com/posts/fanshi-robot_aaai2026-activity-7419715972577804289-9FFI/">live demo</a> in NUS Booth @AAAI 2026. Humanoid learns to manipulate deformable objects purely from our developed simulation.</p>
 <p>2026.01: Welcome Kehan and Tianao (ETH Zurich), Joao (University of Lisbon), and Ziming (Technical University of Munich) to join us!</p>
 <p>2025.12: Fan serves as the Area Chair for RSS 2026.</p>
 <p>2025.12: Welcome Yulin from HKUST to join us as the Postdoc!</p>
