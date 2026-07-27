@@ -132,7 +132,7 @@ permalink: /lab
       <div class="member-position">Visiting Student</div>
     </div>
   </a>
-  <a href="https://scholar.google.com/citations?user=VAVozZEAAAAJ/" class="member-link" target="_blank">
+  <a href="https://scholar.google.com/citations?user=VAVozZEAAAAJ&hl=en" class="member-link" target="_blank">
     <div class="member-card">
       <img src="/assets/img/Hongyu.jpg" class="member-photo" alt="Hongyu Tao">
       <div class="member-name">Hongyu Tao</div>
