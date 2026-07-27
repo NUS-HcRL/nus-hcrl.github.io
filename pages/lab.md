@@ -55,7 +55,7 @@ permalink: /lab
         <div class="member-position">PhD Student</div>
     </div>
   </a>
-  <a href="https://scholar.google.com/citations?user=kwhFI3MAAAAJ/" class="member-link" target="_blank">
+  <a href="https://www.linkedin.com/in/yan-rui-tan-475b2612a/" class="member-link" target="_blank">
     <div class="member-card">
         <img src="/assets/img/Yanrui.jpg" class="member-photo" alt="Yan Rui Tan">
         <div class="member-name">Yan Rui Tan</div>
@@ -69,7 +69,7 @@ permalink: /lab
       <div class="member-position">PhD Student</div>
     </div>
   </a>
-  <a href="https://scholar.google.com/citations?user=_i3BHIMAAAAJ/" class="member-link" target="_blank">
+  <a href="https://www.linkedin.com/in/bingyang-zhou-69613b292/" class="member-link" target="_blank">
     <div class="member-card">
         <img src="/assets/img/Bingyang.jpg" class="member-photo" alt="Bingyang Zhou">
         <div class="member-name">Bingyang Zhou</div>
