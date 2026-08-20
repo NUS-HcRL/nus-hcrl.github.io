@@ -6,6 +6,18 @@ permalink: /research
 
 <div class="publication-card">
         <div class="publication-image-container">
+            <img src="/assets/research_img/humanoid-survey26.png" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">Evolution of Humanoid Locomotion Control</div>
+            <div class="publication-authors">Yan Gu*, Guanya Shi*, Fan Shi*, I-Chia Chang, Yen-Jen Wang, Qilong Cheng, Zachary Olkin, Ivan Lopez-Sanchez, Yunchu Feng, Jian Zhang, Aaron D Ames, Hao Su†, Koushil Sreenath†</div>
+            <div class="publication-links">
+                <a href="https://www.science.org/doi/10.1126/scirobotics.aed3973" class="publication-link" target="_blank">Science Robotics</a>
+            </div>
+        </div>
+    </div>
+<div class="publication-card">
+        <div class="publication-image-container">
             <img src="/assets/research_img/corl26-rarm.gif" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
@@ -92,18 +104,6 @@ permalink: /research
             </div>
         </div>
 </div>
-<div class="publication-card">
-        <div class="publication-image-container">
-            <img src="/assets/research_img/humanoid-survey26.png" alt="Publication Image" class="publication-image">
-        </div>
-        <div class="publication-info">
-            <div class="publication-title">Evolution of Humanoid Locomotion Control</div>
-            <div class="publication-authors">Yan Gu, Guanya Shi, Fan Shi, I-Chia Chang, Yen-Jen Wang, Qilong Cheng, Zachary Olkin, Ivan Lopez-Sanchez, Yunchu Feng, Jian Zhang, Aaron D Ames, Hao Su, Koushil Sreenath</div>
-            <div class="publication-links">
-                <a href="https://www.thetracelab.com/uploads/1/1/3/0/113094493/evolution_of_humanoid_locomotion_control_1203.pdf" class="publication-link" target="_blank">arXiv</a>
-            </div>
-        </div>
-    </div>
 <div class="publications-list">
     <div class="publication-card">
         <div class="publication-image-container">
@@ -111,7 +111,7 @@ permalink: /research
         </div>
         <div class="publication-info">
             <div class="publication-title">SAC-Loco: Safe and Adjustable Compliant Quadrupedal Locomotion</div>
-            <div class="publication-authors">Aoqian Zhang, Cheng Xiang, Zixuan Zhuang, Chunzheng Wang, Fan Shi*, Shuzhi Sam Ge*</div>
+            <div class="publication-authors">Aoqian Zhang, Cheng Xiang, Zixuan Zhuang, Chunzheng Wang, Fan Shi†, Shuzhi Sam Ge†</div>
             <div class="publication-venue">IROS 2026</div>
         </div>
 </div>
