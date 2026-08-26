@@ -34,11 +34,11 @@ permalink: /lab
       <div class="member-position">Research Fellow</div>
     </div>
   </a>
-  <a href="https://www.siyuanluo.com/" class="member-link" target="_blank">
+  <a href="https://yiyuanzhang.crd.co/" class="member-link" target="_blank">
     <div class="member-card">
-      <img src="/assets/img/Siyuan.jpg" class="member-photo" alt="Siyuan Luo">
-      <div class="member-name">Siyuan Luo</div>
-      <div class="member-position">Research Engineer</div>
+      <img src="/assets/img/Yiyuan.png" class="member-photo" alt="Yiyuan Zhang">
+      <div class="member-name">Yiyuan Zhang</div>
+      <div class="member-position">Research Fellow</div>
     </div>
   </a>
   <a href="https://zhenhaoh.github.io/" class="member-link" target="_blank">
