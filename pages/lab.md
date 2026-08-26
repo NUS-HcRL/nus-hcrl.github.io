@@ -141,8 +141,14 @@ permalink: /lab
   </a>
 </div>
 
-## Previous Students
-<div class="alumni-list">
+## Alumni
+  <div class="alumni-list">
+    <div class="alumni-row">
+      <div class="alumni-name">Siyuan Luo</div>
+      <div class="alumni-edu">Research Engineer</div>
+      <div class="alumni-status">Co-Founder of <a href="https://pranalab.ai/" class="publication-link">Prana Labs</a></div>
+    </div>
+  <div class="alumni-list">
 
   <div class="alumni-row">
     <div class="alumni-name">Chong Zhang</div>
