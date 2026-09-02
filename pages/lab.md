@@ -173,7 +173,6 @@ permalink: /lab
       <div class="alumni-edu">Research Engineer</div>
       <div class="alumni-status">Co-Founder of <a href="https://pranalab.ai/" class="publication-link">Prana Labs</a></div>
     </div>
-  <div class="alumni-list">
 
   <div class="alumni-row">
     <div class="alumni-name">Chong Zhang</div>
