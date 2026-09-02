@@ -111,6 +111,13 @@ permalink: /lab
           <div class="member-position">PhD Student</div>
     </div>
   </a>
+  <a href="https://www.linkedin.com/in/christopher-prihadi-69b1961b6/" class="member-link" target="_blank">
+    <div class="member-card">
+      <img src="/assets/img/Christopher.jpg" class="member-photo" alt="Kunqi Xu">
+      <div class="member-name">Christopher Prihadi</div>
+      <div class="member-position">PhD Student</div>
+    </div>
+  </a>
   <a href="https://www.linkedin.com/in/xin-liu-9533243a7/" class="member-link" target="_blank">
     <div class="member-card">
           <img src="/assets/img/Xin.jpg" class="member-photo" alt="Xin Liu">
