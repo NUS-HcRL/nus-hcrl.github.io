@@ -34,7 +34,7 @@ permalink: /lab
       <img src="/assets/img/Yulin.jpg" class="member-photo" alt="Yulin Li">
       <div class="member-name">Yulin Li</div>
       <div class="member-position">Postdoctoral Researcher</div>
-      <div class="member-origin">Previous: HKUST, China</div>
+      <div class="member-origin">Previous: Hong Kong University of Science and Technology, China</div>
     </div>
   </a>
   <a href="https://yiyuanzhang.crd.co/" class="member-link" target="_blank">
@@ -82,7 +82,7 @@ permalink: /lab
         <img src="/assets/img/Bingyang.jpg" class="member-photo" alt="Bingyang Zhou">
         <div class="member-name">Bingyang Zhou</div>
         <div class="member-position">PhD Candidate</div>
-        <div class="member-origin">Previous: Hong Kong University, China</div>
+        <div class="member-origin">Previous: University of Hong Kong, China</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/gang-yang-a869492bb/" class="member-link" target="_blank">
