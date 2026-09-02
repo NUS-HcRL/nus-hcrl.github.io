@@ -25,6 +25,7 @@ permalink: /lab
       <img src="/assets/img/Ziqiu.jpg" class="member-photo" alt="Ziqiu Zeng">
       <div class="member-name">Ziqiu Zeng</div>
       <div class="member-position">Postdoctoral Researcher</div>
+      <div class="member-origin">Previous: University of Strasbourg</div>
     </div>
   </a>
   <a href="https://yulinli0.github.io/" class="member-link" target="_blank">
@@ -32,6 +33,7 @@ permalink: /lab
       <img src="/assets/img/Yulin.jpg" class="member-photo" alt="Yulin Li">
       <div class="member-name">Yulin Li</div>
       <div class="member-position">Postdoctoral Researcher</div>
+      <div class="member-origin">Previous: Hong Kong University of Science and Technology</div>
     </div>
   </a>
   <a href="https://yiyuanzhang.crd.co/" class="member-link" target="_blank">
@@ -39,6 +41,7 @@ permalink: /lab
       <img src="/assets/img/Yiyuan.png" class="member-photo" alt="Yiyuan Zhang">
       <div class="member-name">Yiyuan Zhang</div>
       <div class="member-position">Postdoctoral Researcher</div>
+      <div class="member-origin">Previous: NUS</div>
     </div>
   </a>
   <a href="https://zhenhaoh.github.io/" class="member-link" target="_blank">
@@ -46,6 +49,7 @@ permalink: /lab
           <img src="/assets/img/Zhenhao.jpg" class="member-photo" alt="Zhenhao Huang">
           <div class="member-name">Zhenhao Huang</div>
           <div class="member-position">PhD Candidate</div>
+          <div class="member-origin">Previous: NUS</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/chunzheng-wang-06a024366/" class="member-link" target="_blank">
@@ -53,6 +57,7 @@ permalink: /lab
         <img src="/assets/img/Chunzheng.jpg" class="member-photo" alt="Chunzheng Wang">
         <div class="member-name">Chunzheng Wang</div>
         <div class="member-position">PhD Candidate</div>
+        <div class="member-origin">Previous: Beihang University</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/yan-rui-tan-475b2612a/" class="member-link" target="_blank">
@@ -60,6 +65,7 @@ permalink: /lab
         <img src="/assets/img/Yanrui.jpg" class="member-photo" alt="Yan Rui Tan">
         <div class="member-name">Yan Rui Tan</div>
         <div class="member-position">PhD Candidate</div>
+        <div class="member-origin">Previous: NUS</div>
     </div>
   </a>
   <a href="https://pengzhi1998.github.io/" class="member-link" target="_blank">
@@ -67,6 +73,7 @@ permalink: /lab
       <img src="/assets/img/Pengzhi.jpg" class="member-photo" alt="Pengzhi Yang">
       <div class="member-name">Pengzhi Yang</div>
       <div class="member-position">PhD Candidate</div>
+      <div class="member-origin">Previous: Delft University of Technology</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/bingyang-zhou-69613b292/" class="member-link" target="_blank">
@@ -74,13 +81,15 @@ permalink: /lab
         <img src="/assets/img/Bingyang.jpg" class="member-photo" alt="Bingyang Zhou">
         <div class="member-name">Bingyang Zhou</div>
         <div class="member-position">PhD Candidate</div>
+        <div class="member-origin">Previous: Hong Kong University</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/gang-yang-a869492bb/" class="member-link" target="_blank">
     <div class="member-card">
         <img src="/assets/img/Gang.jpg" class="member-photo" alt="Gang Yang">
         <div class="member-name">Gang Yang</div>
-        <div class="member-position">PhD Candidate (Co-supervise with Prof. Ee-Chien Chang)</div>
+        <div class="member-position">PhD Candidate</div>
+        <div class="member-origin">Co-advised with Ee-Chien Chang. Previous: Peking University</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/kehanwen0923/" class="member-link" target="_blank">
@@ -88,20 +97,23 @@ permalink: /lab
         <img src="/assets/img/Kehan.jpg" class="member-photo" alt="Kehan Wen">
         <div class="member-name">Kehan Wen</div>
         <div class="member-position">PhD Candidate</div>
+        <div class="member-origin">Previous: ETH Zurich</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3opinho/" class="member-link" target="_blank">
     <div class="member-card">
         <img src="/assets/img/João.jpg" class="member-photo" alt="João Pinho">
         <div class="member-name">João Pinho</div>
-        <div class="member-position">PhD Candidate (Co-supervise with Prof. Vincent Bonnet)</div>
+        <div class="member-position">PhD Candidate</div>
+        <div class="member-origin">Co-advised with Vincent Bonnet. Previous: University of Lisbon</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/tianao-xu-066b51258/" class="member-link" target="_blank">
     <div class="member-card">
         <img src="/assets/img/Tianao.jpg" class="member-photo" alt="Tianao Xu">
         <div class="member-name">Tianao Xu</div>
-        <div class="member-position">PhD Candidate (Co-supervise with Prof. Ngiam Kee Yuan)</div>
+        <div class="member-position">PhD Candidate</div>
+        <div class="member-origin">Co-advised with Ngiam Kee Yuan. Previous: ETH Zurich</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/ziming-li-8b68b7280/" class="member-link" target="_blank">
@@ -109,6 +121,7 @@ permalink: /lab
           <img src="/assets/img/Ziming.jpeg" class="member-photo" alt="Zhenhao Huang">
           <div class="member-name">Ziming Li</div>
           <div class="member-position">PhD Candidate</div>
+          <div class="member-origin">Previous: Technical University of Munich</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/christopher-prihadi-69b1961b6/" class="member-link" target="_blank">
@@ -116,6 +129,7 @@ permalink: /lab
       <img src="/assets/img/Christopher.jpg" class="member-photo" alt="Kunqi Xu">
       <div class="member-name">Christopher Prihadi</div>
       <div class="member-position">PhD Candidate</div>
+      <div class="member-origin">Co-advised with Yan Wu. Previous: NTU</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/xin-liu-9533243a7/" class="member-link" target="_blank">
@@ -123,6 +137,7 @@ permalink: /lab
           <img src="/assets/img/Xin.jpg" class="member-photo" alt="Xin Liu">
           <div class="member-name">Xin Liu</div>
           <div class="member-position">Visiting Scholar</div>
+          <div class="member-origin">Shanghai Jiaotong University</div>
     </div>
   </a>
   <a href="https://www.cs.ubc.ca/~gxchen/" class="member-link" target="_blank">
@@ -130,6 +145,7 @@ permalink: /lab
       <img src="/assets/img/Guanxiong.jpeg" class="member-photo" alt="Kunqi Xu">
       <div class="member-name">Guanxiong Chen</div>
       <div class="member-position">Visiting Scholar</div>
+      <div class="member-origin">University of British Columbia</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/yiduo-qu-59115321b/" class="member-link" target="_blank">
@@ -137,6 +153,7 @@ permalink: /lab
       <img src="/assets/img/yiduo.jpeg" class="member-photo" alt="Kunqi Xu">
       <div class="member-name">Yee Yiduo Qu</div>
       <div class="member-position">Visiting Scholar</div>
+      <div class="member-origin">University of Cambridge</div>
     </div>
   </a>
   <a href="https://scholar.google.com/citations?user=VAVozZEAAAAJ&hl=en" class="member-link" target="_blank">
@@ -144,6 +161,7 @@ permalink: /lab
       <img src="/assets/img/Hongyu.jpg" class="member-photo" alt="Hongyu Tao">
       <div class="member-name">Hongyu Tao</div>
       <div class="member-position">Visiting Scholar</div>
+      <div class="member-origin">Zhejiang University</div>
     </div>
   </a>
 </div>
