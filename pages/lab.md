@@ -133,12 +133,12 @@ permalink: /lab
       <div class="member-origin">Co-advised with Yan Wu. Previous: NTU, Singapore</div>
     </div>
   </a>
-  <a href="https://www.linkedin.com/in/xin-liu-9533243a7/" class="member-link" target="_blank">
+  <a href="https://www.linkedin.com/in/pengyu-jing-63a065399/" class="member-link" target="_blank">
     <div class="member-card">
-          <img src="/assets/img/Xin.jpg" class="member-photo" alt="Xin Liu">
-          <div class="member-name">Xin Liu</div>
-          <div class="member-position">Visiting Scholar</div>
-          <div class="member-origin">Shanghai Jiaotong University, China</div>
+      <img src="/assets/img/Pengyu.png" class="member-photo" alt="Kunqi Xu">
+      <div class="member-name">Pengyu Jing</div>
+      <div class="member-position">PhD Candidate</div>
+      <div class="member-origin">Previous: NUS, Singapore</div>
     </div>
   </a>
   <a href="https://www.cs.ubc.ca/~gxchen/" class="member-link" target="_blank">
@@ -147,6 +147,14 @@ permalink: /lab
       <div class="member-name">Guanxiong Chen</div>
       <div class="member-position">Visiting Scholar</div>
       <div class="member-origin">University of British Columbia, Canada</div>
+    </div>
+  </a>
+  <a href="https://www.linkedin.com/in/xin-liu-9533243a7/" class="member-link" target="_blank">
+    <div class="member-card">
+          <img src="/assets/img/Xin.jpg" class="member-photo" alt="Xin Liu">
+          <div class="member-name">Xin Liu</div>
+          <div class="member-position">Visiting Scholar</div>
+          <div class="member-origin">Shanghai Jiaotong University, China</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/yiduo-qu-59115321b/" class="member-link" target="_blank">
