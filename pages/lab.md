@@ -26,7 +26,7 @@ permalink: /lab
       <img src="/assets/img/Ziqiu.jpg" class="member-photo" alt="Ziqiu Zeng">
       <div class="member-name">Ziqiu Zeng</div>
       <div class="member-position">Postdoctoral Researcher</div>
-      <div class="member-origin">Previous: University of Strasbourg, France</div>
+      <div class="member-origin">Previous: INRIA & University of Strasbourg, France</div>
     </div>
   </a>
   <a href="https://yulinli0.github.io/" class="member-link" target="_blank">
