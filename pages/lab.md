@@ -14,6 +14,7 @@ permalink: /lab
       <img src="/assets/img/Fan.jpg" class="member-photo" alt="Fan Shi">
       <div class="member-name">Fan Shi</div>
       <div class="member-position">Assistant Professor</div>
+      <div class="member-origin">Presidential Young Professorship</div>
     </div>
   </a>
 </div>
