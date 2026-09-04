@@ -11,8 +11,9 @@ permalink: /research
         <div class="publication-info">
             <div class="publication-title">Evolution of Humanoid Locomotion Control</div>
             <div class="publication-authors">Yan Gu*, Guanya Shi*, Fan Shi*, I-Chia Chang, Yen-Jen Wang, Qilong Cheng, Zachary Olkin, Ivan Lopez-Sanchez, Yunchu Feng, Jian Zhang, Aaron D Ames, Hao Su†, Koushil Sreenath†</div>
+            <div class="publication-venue">Science Robotics 2026</div>
             <div class="publication-links">
-                <a href="https://www.science.org/doi/10.1126/scirobotics.aed3973" class="publication-link" target="_blank">Science Robotics</a>
+                <a href="https://www.science.org/doi/10.1126/scirobotics.aed3973" class="publication-link" target="_blank">Paper</a>
             </div>
         </div>
     </div>
@@ -23,8 +24,8 @@ permalink: /research
         <div class="publication-info">
             <div class="publication-title">RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation</div>
             <div class="publication-authors">Pengzhi Yang, Xinyu Wang, Pengyu Jing, Kehan Wen, Yiduo Qu, Zhenhao Huang, Minghao Fu, Xin Liu, Yaheng Shen, Fan Shi</div>
+            <div class="publication-venue">Conference on Robot Learning (CoRL) 2026</div>
             <div class="publication-links">
-                <a href="https://arxiv.org/abs/2606.22027" class="publication-link" target="_blank">Conference on Robot Learning (CoRL) 2026</a>
                 <a href="https://rarm-robotics.github.io/" class="publication-link">Project</a> 
             </div>
         </div>
@@ -36,8 +37,8 @@ permalink: /research
         <div class="publication-info">
             <div class="publication-title">Enabling Robust Cloth Manipulation via Inference-Time Simulator-in-the-Loop Refinement</div>
             <div class="publication-authors">Xin Liu, Yulin Li, Ziming Li, Pengyu Jing, Zhenhao Huang, Bingyang Zhou, Ziqiu Zeng, Siyuan Luo, Chenkun Qi, Fan Shi</div>
+            <div class="publication-venue">Conference on Robot Learning (CoRL) 2026</div>
             <div class="publication-links">
-                <a href="https://arxiv.org/abs/2606.24552" class="publication-link" target="_blank">Conference on Robot Learning (CoRL) 2026</a>
                 <a href="https://silr-cloth.github.io/" class="publication-link">Project</a> 
             </div>
         </div>
@@ -49,8 +50,9 @@ permalink: /research
         <div class="publication-info">
             <div class="publication-title">DiffPhD: A Unified Differentiable Solver for Projective Heterogeneous Materials in Elastodynamics with Contact-Rich GPU-Acceleration</div>
             <div class="publication-authors">Shih-Yu Lai, Sung-Han Tien, Jui-I Huang, Yen-Chen Tseng, Yi-Ting Chiu, Siyuan Luo, Ziqiu Zeng, Fan Shi, Peter Yichen Chen, Tiantian Liu, Yu-Lun Liu, Bing-Yu Chen</div>
+            <div class="publication-venue">ACM Transactions on Graphics 2026</div>
             <div class="publication-links">
-                <a href="https://arxiv.org/abs/2605.14526" class="publication-link" target="_blank">ACM Transactions on Graphics 2026</a>
+                <a href="https://arxiv.org/abs/2605.14526" class="publication-link" target="_blank">Paper</a>
             </div>
         </div>
     </div>
@@ -73,8 +75,9 @@ permalink: /research
         <div class="publication-info">
             <div class="publication-title">FLASH: Fast Learning via GPU-Accelerated Simulation for High-Fidelity Deformable Manipulation in Minutes</div>
             <div class="publication-authors">Siyuan Luo, Bingyang Zhou, Chong Zhang, Xin Liu, Zhenhao Huang, Gang Yang, Zhengtao Han, Xiaotian Hu, Eric Yang, Rymon Yu, Ziqiu Zeng, Fan Shi</div>
+            <div class="publication-venue">International Symposium of Robotics Research (ISRR) 2026</div>
             <div class="publication-links">
-                <a href="https://arxiv.org/abs/2604.17513" class="publication-link" target="_blank">International Symposium of Robotics Research (ISRR) 2026</a>
+                <a href="https://arxiv.org/abs/2604.17513" class="publication-link" target="_blank">Paper</a>
             </div>
         </div>
     </div>
@@ -124,7 +127,10 @@ permalink: /research
         <div class="publication-info">
             <div class="publication-title">SAC-Loco: Safe and Adjustable Compliant Quadrupedal Locomotion</div>
             <div class="publication-authors">Aoqian Zhang, Cheng Xiang, Zixuan Zhuang, Chunzheng Wang, Fan Shi†, Shuzhi Sam Ge†</div>
-            <div class="publication-venue">IROS 2026</div>
+            <div class="publication-venue">International Conference on Intelligent Robots and Systems (IROS) 2026</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2509.23223" class="publication-link" target="_blank">Paper</a>
+            </div>
         </div>
 </div>
 <div class="publications-list">
