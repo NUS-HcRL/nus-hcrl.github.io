@@ -1,4 +1,4 @@
----
+<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/c5165d8f-f8e6-4e7c-9bec-34debc8877ed" />---
 layout: research
 permalink: /research
 ---
@@ -74,7 +74,7 @@ permalink: /research
             <div class="publication-title">FLASH: Fast Learning via GPU-Accelerated Simulation for High-Fidelity Deformable Manipulation in Minutes</div>
             <div class="publication-authors">Siyuan Luo, Bingyang Zhou, Chong Zhang, Xin Liu, Zhenhao Huang, Gang Yang, Zhengtao Han, Xiaotian Hu, Eric Yang, Rymon Yu, Ziqiu Zeng, Fan Shi</div>
             <div class="publication-links">
-                <a href="https://arxiv.org/abs/2604.17513" class="publication-link" target="_blank">arXiv</a>
+                <a href="https://arxiv.org/abs/2604.17513" class="publication-link" target="_blank">International Symposium of Robotics Research (ISRR) 2026</a>
             </div>
         </div>
     </div>
