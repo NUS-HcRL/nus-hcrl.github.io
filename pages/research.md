@@ -27,6 +27,7 @@ permalink: /research
             <div class="publication-venue">Conference on Robot Learning (CoRL) 2026</div>
             <div class="publication-links">
                 <a href="https://rarm-robotics.github.io/" class="publication-link">Project</a> 
+                <a href="https://arxiv.org/abs/2606.2202/" class="publication-link">Paper</a> 
             </div>
         </div>
     </div>
@@ -40,6 +41,7 @@ permalink: /research
             <div class="publication-venue">Conference on Robot Learning (CoRL) 2026</div>
             <div class="publication-links">
                 <a href="https://silr-cloth.github.io/" class="publication-link">Project</a> 
+                <a href="https://arxiv.org/abs/2606.24552/" class="publication-link">Paper</a> 
             </div>
         </div>
     </div>
@@ -142,6 +144,9 @@ permalink: /research
             <div class="publication-title">REBot: Reflexive Evasion Robot for Instantaneous Dynamic Obstacle Avoidance</div>
             <div class="publication-authors">Zihao Xu, Ce Hao, Chunzheng Wang, Kuankuan Sima, Fan Shi, Jin Song Dong</div>
             <div class="publication-venue">IEEE Robotics and Automation Letters (RA-L) 2025</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2508.06229" class="publication-link" target="_blank">Paper</a>
+            </div>
         </div>
 </div>
 <div class="publications-list">
@@ -163,7 +168,10 @@ permalink: /research
         <div class="publication-info">
             <div class="publication-title">Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically Constrained Humanoids</div>
             <div class="publication-authors">Arturo Moises Flores Alvarez, Fatemeh Zargarbashi, Havel Liu, Shiqi Wang, Liam Edwards, Jessica Anz, Alex Xu, Fan Shi, Stelian Coros, Dennis Hong</div>
-            <div class="publication-venue">Humanoids 2025</div>
+            <div class="publication-venue">International Conference on Humanoid Robots (Humanoids) 2025</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2509.05581" class="publication-link" target="_blank">Paper</a>
+            </div>
         </div>
 </div>
 <div class="publications-list">
@@ -174,7 +182,7 @@ permalink: /research
         <div class="publication-info">
             <div class="publication-title">GO-Flock: Goal-Oriented Flocking in 3D Unknown Environments with Depth Maps</div>
             <div class="publication-authors">Yan Rui Tan, Wenqi Liu, Wai Lun Leong, John Guan Zhong Tan, Wayne Wen Huei Yong, Shaohui Foong, Fan Shi, Rodney Swee Huat Teo</div>
-            <div class="publication-venue">IROS 2025</div>
+            <div class="publication-venue">International Conference on Intelligent Robots and Systems (IROS) 2025</div>
         </div>
 </div>
 <div class="publications-list">
@@ -200,6 +208,9 @@ permalink: /research
             <div class="publication-title">Learning to Assemble with Alternative Plans</div>
             <div class="publication-authors">Ziqi Wang, Wenjun Liu, Jingwen Wang, Gabriel Vallat, Fan Shi, Stefana Parascho, Maryam Kamgarpour</div>
             <div class="publication-venue">ACM Transactions on Graphics (Proc. ACM SIGGRAPH 2025)</div>
+            <div class="publication-links">
+                <a href="https://dl.acm.org/doi/10.1145/3730824" class="publication-link">Paper</a>
+            </div>
         </div>
     </div>
 <div class="publications-list">
@@ -226,6 +237,9 @@ permalink: /research
             <div class="publication-title">MRISA: A Visual Analytics Approach for Comparing Locomotion Policies in Robotics Training</div>
             <div class="publication-authors">Nan Li, Fan Shi, Xiaoyu Zhang, April Yi Wang</div>
             <div class="publication-venue">Graphics Inferface 2025</div>
+            <div class="publication-links">
+                <a href="https://dl.acm.org/doi/10.1145/3769872.3769898" class="publication-link">Paper</a>
+            </div>
         </div>
     </div>
     <div class="publication-card">
