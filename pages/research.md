@@ -37,7 +37,7 @@ permalink: /research
             <div class="publication-authors">Pengzhi Yang, Xinyu Wang, Pengyu Jing, Kehan Wen, Yiduo Qu, Zhenhao Huang, Minghao Fu, Xin Liu, Yaheng Shen, Fan Shi</div>
             <div class="publication-links">
                 <a href="https://rarm-robotics.github.io/" class="publication-link">Project</a> 
-                <a href="https://arxiv.org/abs/2606.22027" class="publication-link" target="_blank">arXiv</a>
+                <a href="https://arxiv.org/abs/2606.22027" class="publication-link" target="_blank">The Conference on Robot Learning (CoRL) 2026</a>
             </div>
         </div>
     </div>
@@ -50,7 +50,7 @@ permalink: /research
             <div class="publication-authors">Xin Liu, Yulin Li, Ziming Li, Pengyu Jing, Zhenhao Huang, Bingyang Zhou, Ziqiu Zeng, Siyuan Luo, Chenkun Qi, Fan Shi</div>
             <div class="publication-links">
                 <a href="https://silr-cloth.github.io/" class="publication-link">Project</a> 
-                <a href="https://arxiv.org/abs/2606.24552" class="publication-link" target="_blank">arXiv</a>
+                <a href="https://arxiv.org/abs/2606.24552" class="publication-link" target="_blank">The Conference on Robot Learning (CoRL) 2026</a>
             </div>
         </div>
     </div>
