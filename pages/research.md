@@ -18,18 +18,6 @@ permalink: /research
     </div>
 <div class="publication-card">
         <div class="publication-image-container">
-            <img src="/assets/research_img/tog26-diffphd.png" alt="Publication Image" class="publication-image">
-        </div>
-        <div class="publication-info">
-            <div class="publication-title">DiffPhD: A Unified Differentiable Solver for Projective Heterogeneous Materials in Elastodynamics with Contact-Rich GPU-Acceleration</div>
-            <div class="publication-authors">Shih-Yu Lai, Sung-Han Tien, Jui-I Huang, Yen-Chen Tseng, Yi-Ting Chiu, Siyuan Luo, Ziqiu Zeng, Fan Shi, Peter Yichen Chen, Tiantian Liu, Yu-Lun Liu, Bing-Yu Chen</div>
-            <div class="publication-links">
-                <a href="https://arxiv.org/abs/2605.14526" class="publication-link" target="_blank">ACM Transactions on Graphics 2026</a>
-            </div>
-        </div>
-    </div>
-<div class="publication-card">
-        <div class="publication-image-container">
             <img src="/assets/research_img/corl26-rarm.gif" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
@@ -51,6 +39,18 @@ permalink: /research
             <div class="publication-links">
                 <a href="https://arxiv.org/abs/2606.24552" class="publication-link" target="_blank">Conference on Robot Learning (CoRL) 2026</a>
                 <a href="https://silr-cloth.github.io/" class="publication-link">Project</a> 
+            </div>
+        </div>
+    </div>
+<div class="publication-card">
+        <div class="publication-image-container">
+            <img src="/assets/research_img/tog26-diffphd.png" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">DiffPhD: A Unified Differentiable Solver for Projective Heterogeneous Materials in Elastodynamics with Contact-Rich GPU-Acceleration</div>
+            <div class="publication-authors">Shih-Yu Lai, Sung-Han Tien, Jui-I Huang, Yen-Chen Tseng, Yi-Ting Chiu, Siyuan Luo, Ziqiu Zeng, Fan Shi, Peter Yichen Chen, Tiantian Liu, Yu-Lun Liu, Bing-Yu Chen</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2605.14526" class="publication-link" target="_blank">ACM Transactions on Graphics 2026</a>
             </div>
         </div>
     </div>
