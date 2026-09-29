@@ -38,7 +38,7 @@ permalink: /research
         <div class="publication-info">
             <div class="publication-title">Enabling Robust Cloth Manipulation via Inference-Time Simulator-in-the-Loop Refinement</div>
             <div class="publication-authors">Xin Liu, Yulin Li, Ziming Li, Pengyu Jing, Zhenhao Huang, Bingyang Zhou, Ziqiu Zeng, Siyuan Luo, Chenkun Qi, Fan Shi</div>
-            <div class="publication-venue">Conference on Robot Learning (CoRL) 2026</div>
+            <div class="publication-venue">Conference on Robot Learning (CoRL) 2026 (Spotlight)</div>
             <div class="publication-links">
                 <a href="https://silr-cloth.github.io/" class="publication-link">Project</a> 
                 <a href="https://arxiv.org/abs/2606.24552/" class="publication-link">Paper</a> 
