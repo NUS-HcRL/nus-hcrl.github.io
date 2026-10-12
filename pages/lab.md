@@ -29,14 +29,6 @@ permalink: /lab
       <div class="member-origin">Previous: INRIA & University of Strasbourg, France</div>
     </div>
   </a>
-  <a href="https://yulinli0.github.io/" class="member-link" target="_blank">
-    <div class="member-card">
-      <img src="/assets/img/Yulin.jpg" class="member-photo" alt="Yulin Li">
-      <div class="member-name">Yulin Li</div>
-      <div class="member-position">Postdoctoral Researcher</div>
-      <div class="member-origin">Previous: Hong Kong University of Science and Technology, China</div>
-    </div>
-  </a>
   <a href="https://yiyuanzhang.crd.co/" class="member-link" target="_blank">
     <div class="member-card">
       <img src="/assets/img/Yiyuan.png" class="member-photo" alt="Yiyuan Zhang">
@@ -59,6 +51,14 @@ permalink: /lab
         <div class="member-name">Chunzheng Wang</div>
         <div class="member-position">PhD Candidate</div>
         <div class="member-origin">Previous: Beihang University, China</div>
+    </div>
+  </a>
+  <a href="https://www.linkedin.com/in/gang-yang-a869492bb/" class="member-link" target="_blank">
+    <div class="member-card">
+        <img src="/assets/img/Gang.jpg" class="member-photo" alt="Gang Yang">
+        <div class="member-name">Gang Yang</div>
+        <div class="member-position">PhD Candidate</div>
+        <div class="member-origin">Co-advised with Ee-Chien Chang. Previous: Peking University, China</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/yan-rui-tan-475b2612a/" class="member-link" target="_blank">
@@ -85,14 +85,6 @@ permalink: /lab
         <div class="member-origin">Previous: University of Hong Kong, China</div>
     </div>
   </a>
-  <a href="https://www.linkedin.com/in/gang-yang-a869492bb/" class="member-link" target="_blank">
-    <div class="member-card">
-        <img src="/assets/img/Gang.jpg" class="member-photo" alt="Gang Yang">
-        <div class="member-name">Gang Yang</div>
-        <div class="member-position">PhD Candidate</div>
-        <div class="member-origin">Co-advised with Ee-Chien Chang. Previous: Peking University, China</div>
-    </div>
-  </a>
   <a href="https://www.linkedin.com/in/kehanwen0923/" class="member-link" target="_blank">
     <div class="member-card">
         <img src="/assets/img/Kehan.jpg" class="member-photo" alt="Kehan Wen">
@@ -101,20 +93,20 @@ permalink: /lab
         <div class="member-origin">Previous: ETH Zurich, Switzerland</div>
     </div>
   </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3opinho/" class="member-link" target="_blank">
-    <div class="member-card">
-        <img src="/assets/img/João.jpg" class="member-photo" alt="João Pinho">
-        <div class="member-name">João Pinho</div>
-        <div class="member-position">PhD Candidate</div>
-        <div class="member-origin">Co-advised with Vincent Bonnet. Previous: University of Lisbon, Portugal</div>
-    </div>
-  </a>
   <a href="https://www.linkedin.com/in/tianao-xu-066b51258/" class="member-link" target="_blank">
     <div class="member-card">
         <img src="/assets/img/Tianao.jpg" class="member-photo" alt="Tianao Xu">
         <div class="member-name">Tianao Xu</div>
         <div class="member-position">PhD Candidate</div>
         <div class="member-origin">Co-advised with Ngiam Kee Yuan. Previous: ETH Zurich, Switzerland</div>
+    </div>
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3opinho/" class="member-link" target="_blank">
+    <div class="member-card">
+        <img src="/assets/img/João.jpg" class="member-photo" alt="João Pinho">
+        <div class="member-name">João Pinho</div>
+        <div class="member-position">PhD Candidate</div>
+        <div class="member-origin">Co-advised with Vincent Bonnet. Previous: University of Lisbon, Portugal</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/ziming-li-8b68b7280/" class="member-link" target="_blank">
@@ -141,20 +133,20 @@ permalink: /lab
       <div class="member-origin">Previous: NUS, Singapore</div>
     </div>
   </a>
-  <a href="https://www.cs.ubc.ca/~gxchen/" class="member-link" target="_blank">
-    <div class="member-card">
-      <img src="/assets/img/Guanxiong.jpeg" class="member-photo" alt="Kunqi Xu">
-      <div class="member-name">Guanxiong Chen</div>
-      <div class="member-position">Visiting Scholar</div>
-      <div class="member-origin">University of British Columbia, Canada</div>
-    </div>
-  </a>
   <a href="https://www.linkedin.com/in/xin-liu-9533243a7/" class="member-link" target="_blank">
     <div class="member-card">
           <img src="/assets/img/Xin.jpg" class="member-photo" alt="Xin Liu">
           <div class="member-name">Xin Liu</div>
           <div class="member-position">Visiting Scholar</div>
           <div class="member-origin">Shanghai Jiaotong University, China</div>
+    </div>
+  </a>
+  <a href="https://www.cs.ubc.ca/~gxchen/" class="member-link" target="_blank">
+    <div class="member-card">
+      <img src="/assets/img/Guanxiong.jpeg" class="member-photo" alt="Kunqi Xu">
+      <div class="member-name">Guanxiong Chen</div>
+      <div class="member-position">Visiting Scholar</div>
+      <div class="member-origin">University of British Columbia, Canada</div>
     </div>
   </a>
   <a href="https://www.linkedin.com/in/yiduo-qu-59115321b/" class="member-link" target="_blank">
@@ -176,6 +168,12 @@ permalink: /lab
 </div>
 
 ## Alumni
+  <div class="alumni-list">
+    <div class="alumni-row">
+      <div class="alumni-name">Yulin Li</div>
+      <div class="alumni-edu">Postdoctoral Researcher</div>
+      <div class="alumni-status">Founder of Orchtech</div>
+    </div>
   <div class="alumni-list">
     <div class="alumni-row">
       <div class="alumni-name">Siyuan Luo</div>
