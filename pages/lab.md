@@ -169,12 +169,13 @@ permalink: /lab
 
 ## Alumni
   <div class="alumni-list">
+   
     <div class="alumni-row">
       <div class="alumni-name">Yulin Li</div>
       <div class="alumni-edu">Postdoctoral Researcher</div>
       <div class="alumni-status">Founder of Orchtech</div>
     </div>
-  <div class="alumni-list">
+    
     <div class="alumni-row">
       <div class="alumni-name">Siyuan Luo</div>
       <div class="alumni-edu">Research Engineer</div>
