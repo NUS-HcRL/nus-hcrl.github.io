@@ -7,11 +7,15 @@ gallery_images:
   - /assets/research_img/humanoid-fall-full.gif
   - /assets/cover_img/diffsim.gif
   - /assets/research_img/flash.gif
+  - /assets/research_img/corl26-mppi.gif
+  - /assets/research_img/corl26-rarm.gif
 gallery_alts:
   - Research Demo 1
   - Research Demo 2
   - Research Demo 3
   - Research Demo 4
+  - Research Demo 5
+  - Research Demo 6
 intro_text: >
   <p>Welcome to <span style="color: black; font-weight: bold;">NUS Human-Centered Robotic Lab</span> (HcRL)! We are developing <span style="color: blue; font-weight: bold;">intelligent</span> and <span style="color: green; font-weight: bold;">safe</span> robotic and AI systems</p>
   
