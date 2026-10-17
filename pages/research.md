@@ -6,6 +6,34 @@ permalink: /research
 
 <div class="publication-card">
         <div class="publication-image-container">
+            <img src="/assets/research_img/diaggen.gif" alt="DiagGen deformable asset generation preview" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation</div>
+            <div class="publication-authors">Guanxiong Chen*, Yiduo Qu*, Qianjun Xia*, Pengyu Jing, Yixian Cheng, Bole Ma, Pengzhi Yang, Bingyang Zhou, Ziming Li, Shashwat Suri, Gongbo Sun, Chao Liu, Peter Yichen Chen, Ziqiu Zeng, Fan Shi</div>
+            <div class="publication-venue">arXiv preprint, 2026</div>
+            <div class="publication-links">
+                <a href="https://diaggen.github.io/" class="publication-link">Project</a>
+                <a href="https://arxiv.org/abs/2609.23103" class="publication-link">arXiv</a>
+            </div>
+        </div>
+    </div>
+<div class="publication-card">
+        <div class="publication-image-container">
+            <img src="/assets/research_img/agentic-real2sim.gif" alt="Agentic Real2Sim simulated robot-object interaction preview" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents</div>
+            <div class="publication-authors">Guanxiong Chen*, Qianjun Xia*, Jiawei Peng*, Heng Zhang*, Pengyu Jing*, Bole Ma*, Justin Qian, Yixian Cheng, Ziyi Jiao, Bingyang Zhou, Yiduo Qu, Luoxin Ye, Kaifeng Zhang, Kunyi Wang, Weijia Zeng, Yunuo Chen, Pengzhi Yang, Ziqiu Zeng, Siyuan Luo, Huamin Wang, Chao Liu, Alan Yuille, Fan Shi, Changxi Zheng, Yunzhu Li, Chenfanfu Jiang, Peter Yichen Chen</div>
+            <div class="publication-venue">arXiv preprint, 2026</div>
+            <div class="publication-links">
+                <a href="https://agentic-real2sim.github.io/" class="publication-link">Project</a>
+                <a href="https://arxiv.org/abs/2607.19190" class="publication-link">arXiv</a>
+            </div>
+        </div>
+    </div>
+<div class="publication-card">
+        <div class="publication-image-container">
             <img src="/assets/research_img/ral26-E2DRL.gif" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
