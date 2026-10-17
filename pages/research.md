@@ -47,6 +47,20 @@ permalink: /research
     </div>
 <div class="publication-card">
         <div class="publication-image-container">
+            <img src="/assets/research_img/neuralips26-FlowHOI.gif" alt="Publication Image" class="publication-image">
+        </div>
+        <div class="publication-info">
+            <div class="publication-title">FlowHOI: Flow-based Semantics-Grounded Generation of Hand-Object Interactions for Dexterous Robot Manipulation</div>
+            <div class="publication-authors">Huajian Zeng, Lingyun Chen, Jiaqi Yang, Yuantai Zhang, Fan Shi, Peidong Liu, Xingxing Zuo</div>
+            <div class="publication-venue">NeurIps 2026</div>
+            <div class="publication-links">
+                <a href="https://huajian-zeng.github.io/projects/flowhoi/" class="publication-link">Project</a>
+                <a href="https://arxiv.org/abs/2602.13444" class="publication-link">Paper</a>
+            </div>
+        </div>
+    </div>
+<div class="publication-card">
+        <div class="publication-image-container">
             <img src="/assets/research_img/humanoid-survey26.png" alt="Publication Image" class="publication-image">
         </div>
         <div class="publication-info">
