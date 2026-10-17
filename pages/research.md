@@ -40,6 +40,9 @@ permalink: /research
             <div class="publication-title">E2DRL: End-to-End Differentiable Reinforcement Learning for 3D Obstacle Avoidance in Quadruped Robots</div>
             <div class="publication-authors">Cheng Fan*, Bingyang Zhou*, Gang Yang, Zixuan Zhuang, Aoqian Zhang, Pengzhi Yang, Xin Liu, Chunzheng Wang, Yan Rui Tan, Fan Shi</div>
             <div class="publication-venue">IEEE Robotics and Automation Letters (RA-L) 2026</div>
+            <div class="publication-links">
+                <a href="https://arxiv.org/abs/2610.19627" class="publication-link">Paper</a>
+            </div>
         </div>
     </div>
 <div class="publication-card">
