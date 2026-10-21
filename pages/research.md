@@ -3,7 +3,19 @@ layout: research
 permalink: /research
 ---
 
-
+<div class="publication-card">
+    <div class="publication-image-container">
+        <img src="/assets/research_img/constrained_diff_policy.gif" alt="Constrained differentiable policy learning for safe quadrotor navigation" class="publication-image">
+    </div>
+    <div class="publication-info">
+        <div class="publication-title">Constrained Differentiable Policy Learning for Safe Quadrotor Navigation</div>
+        <div class="publication-authors">Yan Rui Tan, Praveen Krishnapur, Zeyu Feng, Han Bao, Yew-Soon Ong, Fan Shi</div>
+        <div class="publication-venue">arXiv preprint, 2026</div>
+        <div class="publication-links">
+            <a href="https://arxiv.org/abs/2610.16119" class="publication-link">arXiv</a>
+        </div>
+    </div>
+</div>
 <div class="publication-card">
         <div class="publication-image-container">
             <img src="/assets/research_img/diaggen.gif" alt="DiagGen deformable asset generation preview" class="publication-image">
