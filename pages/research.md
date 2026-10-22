@@ -95,7 +95,7 @@ permalink: /research
             <div class="publication-venue">Conference on Robot Learning (CoRL) 2026</div>
             <div class="publication-links">
                 <a href="https://rarm-robotics.github.io/" class="publication-link">Project</a> 
-                <a href="https://arxiv.org/abs/2606.2202/" class="publication-link">Paper</a> 
+                <a href="https://arxiv.org/abs/2606.22027/" class="publication-link">Paper</a> 
             </div>
         </div>
     </div>
