@@ -54,6 +54,7 @@ permalink: /research
             <div class="publication-venue">IEEE Robotics and Automation Letters (RA-L) 2026</div>
             <div class="publication-links">
                 <a href="https://arxiv.org/abs/2610.19627" class="publication-link">Paper</a>
+                <a href="https://youtu.be/DQI-dlexycs" class="publication-link">Video</a>
             </div>
         </div>
     </div>
