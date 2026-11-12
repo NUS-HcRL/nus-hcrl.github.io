@@ -9,7 +9,7 @@ permalink: /lab
 
 ## Faculty
 <div class="member-grid">
-  <a href="https://fanshi14.github.io/me/" class="member-link" target="_blank">
+  <a href="https://cde.nus.edu.sg/ece/staff/fan-shi/" class="member-link" target="_blank">
     <div class="member-card">
       <img src="/assets/img/Fan.jpg" class="member-photo" alt="Fan Shi">
       <div class="member-name">Fan Shi</div>
