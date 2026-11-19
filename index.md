@@ -25,7 +25,7 @@ news_title: News
 ---
 
 <p>2026.11: We organized the <a href="https://beyondrigidbodies.github.io/">Beyond Rigid Bodies × Newton for Robotics Workshop</a> in SIGGRAPH Asia.</p>
-<p>2026.08: Our collaboration work is published in Science Robotics.</p>
+<p>2026.10: Our work on <a href="https://silr-cloth.github.io/">MPPI-based deformable object manipulation</a> has been selected as a Spotlight presentation (Top 3.4% of all submissions) in the Conference on Robot Learning (CoRL) 2026 .</p>
 <p>2026.07: We gave a talk at SIGGRAPH 2026 on generative environments with physically-grounded simulation for robot manipulation.</p>
 <p>2026.07: We gave a talk at RSS 2026 Workshop: <a href="https://opendrivelab.com/rss2026/workshop/">Towards Robust Execution of Long-Horizon Whole-Body Control Tasks</a>. Look forward to seeing you in Sydney! </p>
 <p>2026.06: We gave a talk at NVIDIA Robotics about our simulation and robot learning's latest progress. Thanks Yan for the invitation! </p>
