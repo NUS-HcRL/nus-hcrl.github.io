@@ -134,6 +134,7 @@ permalink: /research
             <div class="publication-title">Using Large Language Models for Embodied Planning Introduces Systematic Safety Risks</div>
             <div class="publication-authors">Tao Zhang, Kaixian Qu, Alex Zhibin Li, Jiajun Wu, Marco Hutter, Manling Li, Fan Shi</div>
             <div class="publication-links">
+                <a href="https://despite-safety.github.io/" class="publication-link">Project</a> 
                 <a href="https://arxiv.org/abs/2604.18463" class="publication-link" target="_blank">arXiv</a>
             </div>
         </div>
